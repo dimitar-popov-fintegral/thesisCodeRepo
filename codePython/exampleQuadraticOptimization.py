@@ -42,7 +42,7 @@ def evaluateFC (x, c):
 
     #---- OBJECTIVE FUNCTION.
     # dObj = np.transpose(vecW) * matSigma * vecW
-    dObj = (np.dot(np.transpose(vecW), np.dot(matSigma, vecW)))**(1/2)
+    dObj = (1/2) * np.dot(np.transpose(vecW), np.dot(matSigma, vecW))
 
     #---- LINEAR EQUALITY CONSTRAINT.
     # c[0] = np.transpose(vecW) * vecVola
@@ -72,7 +72,7 @@ def evaluateGA (x, objGrad, jac):
     #vecOnes = np.ones(n)
     vecVola = matSigma.diagonal()
     vecW = np.asarray(x)
-    dxObjective = 2 * np.dot(matSigma, vecW)
+    dxObjective = np.dot(matSigma, vecW)
 
     for i in range(0, n):
         objGrad[i] = dxObjective[i]
@@ -97,8 +97,8 @@ def evaluateH (x, lambda_, sigma, hess):
     H = matSigma + np.transpose(matSigma)
     for i in range(0, n):
         for j in range(0, n):
-            if j>=i:
-                hess.append((sigma * H[i][j])) # H[rows][cols]
+            if j >= i:
+                hess.append((sigma * H[i][j]))  # H[rows][cols]
 
 
 #----------------------------------------------------------------
@@ -192,8 +192,9 @@ for i in range(0, n):
             hessCol.append(j)
             hessRow.append(i)
 
-xInit = [ 0 ] * n
-xInit[n-1] = 1
+xInit = [ (0) ] * n
+# Note: Solution sensitive to starting points. Infeasbile results obtained from startPoint = 1/n portfolio!
+#xInit[n-1] = 1
 # xInit = map(int, xInit)
 
 #---- SETUP AND RUN KNITRO TO SOLVE THE PROBLEM.
@@ -339,8 +340,6 @@ def computeVolaWeightedAvgCorr(scaledSolutionVector):
             if(i != j):
                 top += (vecVola[i]*vecW[i]*vecVola[j]*vecW[j]*matC[i][j])
                 bot += (vecVola[i]*vecW[i]*vecVola[j]*vecW[j])
-                print top
-                print bot
 
     return top/bot
 
@@ -354,10 +353,10 @@ def computeConcentrationRatio(scaledSolutionVector):
     vecW = np.asarray(scaledSolutionVector)
 
     # Compute concentration ratio as per YC_YC_2011
-    concentration = (np.dot(np.transpose([x**2 for x in vecW]), vecVola)) / (np.dot(np.transpose(vecW), vecVola))
+    concentration = (np.dot(np.transpose([x**2 for x in vecW]), [x**2 for x in vecVola])) / (np.dot(np.transpose(vecW), vecVola))**2
     return concentration
 
-def computeDiversificationRation(solutionVec):
+def computeDiversificationRatio(solutionVec):
     # Prepare
     filePath = "/Users/Dim/Desktop/work_folder/six/code_CPP/SIX/csv/"
     fileName = "threeAssetTestPortfolio.csv"
@@ -366,14 +365,14 @@ def computeDiversificationRation(solutionVec):
     vecVola = matSigma.diagonal()
     vecW = np.asarray(solutionVec)
 
-    diversification = (np.dot(np.transpose(vecW), vecVola)) / (np.dot(np.dot(np.transpose(vecW), matSigma), vecW))**(0.5)
+    diversification = (np.dot(np.transpose(vecW), vecVola)) / (np.dot(np.dot(np.transpose(vecW), matSigma), vecW))
     return diversification
 
 
 xRescaled = rescaleWeights(x)
 concentration = computeConcentrationRatio(xRescaled)
 volaWeightedAvgCorr = computeVolaWeightedAvgCorr(xRescaled)
-diversification = computeDiversificationRation(xRescaled)
+diversification = computeDiversificationRatio(xRescaled)
 print xRescaled
 print "============="
 print concentration
@@ -381,7 +380,7 @@ print "============="
 print volaWeightedAvgCorr
 print "============="
 print diversification
-#print (concentration * (1-volaWeightedAvgCorr) + volaWeightedAvgCorr)
+print (volaWeightedAvgCorr * (1-concentration) + concentration)**(-1/2)
 
 #---- BE CERTAIN THE NATIVE OBJECT INSTANCE IS DESTROYED.
 KTR_free(kc)
