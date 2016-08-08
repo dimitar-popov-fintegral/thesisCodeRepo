@@ -45,26 +45,22 @@ def prepareProblem(filePath, fileName, lookbackLength = 0):
     # Check the rows for the longest possible set of time-series
     rowCheck = min(min(np.where(tfdata.sum(1) == 0)))
     T = tfdata.__len__()
+    maxIndex = T - rowCheck
 
-    if(lookbackLength == 0):
-        # variance-covariance matrix (numpy-array)
-        data = data.apply(pd.to_numeric)
-        Sigma = (data.cov()).as_matrix()
-        return Sigma
-    else:
-        maxIndex = T - rowCheck
+    if(lookbackLength > maxIndex):
+        lookbackLength = maxIndex
 
-        if(lookbackLength > maxIndex):
-            lookbackLength = maxIndex
+    dataStartIndex = T - lookbackLength
+    data = data[int(dataStartIndex):int(T)]
 
-        dataStartIndex = T - lookbackLength
-        data = data[dataStartIndex:T]
+    # variance-covariance matrix (numpy-array)
+    data = data.apply(pd.to_numeric)
+    Sigma = (data.cov()).as_matrix()
 
-        # variance-covariance matrix (numpy-array)
-        data = data.apply(pd.to_numeric)
-        Sigma = (data.cov()).as_matrix()
-        return Sigma
+    return Sigma
 
 
 filePath = "/Users/Dim/Desktop/school_folder/masters_thesis/gitCodeRepo/data/"
 fileName = "historicalData_20160808.csv"
+
+testdf = prepareProblem(filePath, fileName)
