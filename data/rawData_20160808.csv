@@ -1,0 +1,497 @@
+BBG ISIN;NAME;INDUSTRY_SECTOR;INDUSTRY_SUBGROUP;MKT_CAP_LAST_TRD;CUR_MKT_CAP; has_large_mkt_cap ; has_large_mkt_cap ; has_large_mkt_cap ;AMT_ISSUED;SECURITY_TYP;CNTRY_OF_DOMICILE;CRNCY;LAST_UPDATE_DT;RTG_SP_LT_LC_ISSUER_CREDIT;RTG_MDY_ISSUER
+AT0000APOST4 ISIN;OESTERREICHISCHE POST AG;Industrial;Transport-Services;2539.98;#N/A N/A; -   ;;;#N/A Field Not Applicable;Common Stock;AT;USD;#N/A Field Not Applicable;#N/A N/A;#N/A N/A
+AU000000AOG1 ISIN;AUSTRALIAN OIL & GAS CORP;Energy;Oil-Field Services; #N/A N/A ; #N/A N/A ;;;;#N/A Field Not Applicable;Common Stock;AU;USD;#N/A Field Not Applicable;#N/A N/A;#N/A N/A
+AU000000API4 ISIN;AUSTRALIAN PHARMA INDUS LTD;Consumer, Non-cyclical;Pharmacy Services;100.37;#N/A N/A; -   ;;;#N/A Field Not Applicable;Common Stock;AU;USD;#N/A Field Not Applicable;#N/A N/A;#N/A N/A
+AU000000BKL7 ISIN;BLACKMORES LTD;Consumer, Non-cyclical;Vitamins&Nutrition Prod; #N/A N/A ; #N/A N/A ;;;;#N/A Field Not Applicable;Common Stock;AU;USD;#N/A Field Not Applicable;#N/A N/A;#N/A N/A
+AU000000BSL0 ISIN;BLUESCOPE STEEL LTD;Basic Materials;Steel-Producers;3342.38;3342375855.00; -   ; 1.00 ; 1.00 ;#N/A Field Not Applicable;Common Stock;AU;USD;19.07.2016;BB;#N/A N/A
+AU000000BTT1 ISIN;BT INVESTMENT MANAGEMENT LTD;Financial;Invest Mgmnt/Advis Serv; #N/A N/A ; #N/A N/A ;;;;#N/A Field Not Applicable;Common Stock;AU;USD;#N/A Field Not Applicable;#N/A N/A;#N/A N/A
+AU000000EWC5 ISIN;ENERGY WORLD CORP LTD;Utilities;Electric-Generation;220.02;#N/A N/A; -   ;;;#N/A Field Not Applicable;Common Stock;AU;USD;#N/A Field Not Applicable;#N/A N/A;#N/A N/A
+AU000000FDC2 ISIN;FEDERATION CENTRES;Financial;REITS-Shopping Centers; #N/A N/A ; #N/A N/A ;;;;#N/A Field Not Applicable;REIT;AU;AUD;#N/A Field Not Applicable;A-;#N/A N/A
+AU000000JBH7 ISIN;JB HI-FI LTD;Consumer, Cyclical;Retail-Consumer Electron; #N/A N/A ; #N/A N/A ;;;;#N/A Field Not Applicable;Common Stock;AU;USD;#N/A Field Not Applicable;#N/A N/A;#N/A N/A
+AU000000KAR6 ISIN;KAROON GAS AUSTRALIA LTD;Energy;Oil Comp-Explor&Prodtn;237.06;237061512.07; -   ; 1.00 ; 1.00 ;#N/A Field Not Applicable;Common Stock;AU;USD;05.08.2016;#N/A N/A;#N/A N/A
+AU000000MGX7 ISIN;MOUNT GIBSON IRON LTD;Basic Materials;Metal-Iron;222.73;222729864.24; -   ; 1.00 ; 1.00 ;#N/A Field Not Applicable;Common Stock;AU;USD;04.08.2016;#N/A N/A;#N/A N/A
+AU000000MND5 ISIN;MONADELPHOUS GROUP LTD;Industrial;Engineering/R&D Services;524.74;#N/A N/A; -   ;;;#N/A Field Not Applicable;Common Stock;AU;USD;#N/A Field Not Applicable;#N/A N/A;#N/A N/A
+AU000000NCM7 ISIN;NEWCREST MINING LTD;Basic Materials;Gold Mining;14632.69;14632694436.39; -   ; 1.00 ; 1.00 ;#N/A Field Not Applicable;Common Stock;AU;USD;05.08.2016;BBB-;#N/A N/A
+AU000000PRG2 ISIN;PROGRAMMED MAINTENANCE SVCS;Consumer, Non-cyclical;Building-Maint&Service; #N/A N/A ; #N/A N/A ;;;;#N/A Field Not Applicable;Common Stock;AU;USD;#N/A Field Not Applicable;#N/A N/A;#N/A N/A
+AU000000RIO1 ISIN;RIO TINTO LTD;Basic Materials;Metal-Diversified;61675.61;61676586933.04; 1.00 ; -   ; 1.00 ;#N/A Field Not Applicable;Common Stock;GB;USD;21.07.2016;A-;Baa1
+AU000000SGP0 ISIN;STOCKLAND;Financial;REITS-Diversified;5505.56;#N/A N/A; -   ;;;#N/A Field Not Applicable;Misc.;AU;USD;#N/A Field Not Applicable;A-;#N/A N/A
+BE0003793107 ISIN;ANHEUSER-BUSCH INBEV SA/NV;Consumer, Non-cyclical;Brewery;198119.36;198119351197.64; 1.00 ; -   ; 1.00 ;#N/A Field Not Applicable;Common Stock;BE;USD;05.08.2016;A-;#N/A N/A
+BE0003793107 ISIN;ANHEUSER-BUSCH INBEV SA/NV;Consumer, Non-cyclical;Brewery;198119.36;198119351197.64; 1.00 ; 1.00 ; 1.00 ;#N/A Field Not Applicable;Common Stock;BE;USD;05.08.2016;A-;#N/A N/A
+BMG053841059 ISIN;ASPEN INSURANCE HOLDINGS LTD;Financial;Reinsurance;2747.78;2747783903.48; -   ; 1.00 ; 1.00 ;#N/A Field Not Applicable;Common Stock;BM;USD;05.08.2016;BBB+;#N/A N/A
+BMG1368B1028 ISIN;BRILLIANCE CHINA AUTOMOTIVE;Consumer, Cyclical;Auto-Cars/Light Trucks;5793.09;5793089796.20; -   ; 1.00 ; 1.00 ;#N/A Field Not Applicable;Common Stock;HK;USD;12.07.2016;#N/A N/A;#N/A N/A
+BMG2109G1033 ISIN;CHINA GAS HOLDINGS LTD;Utilities;Gas-Distribution;7611.10;7611096069.55; -   ; 1.00 ; 1.00 ;#N/A Field Not Applicable;Common Stock;HK;USD;29.07.2016;#N/A N/A;#N/A N/A
+BMG2519Y1084 ISIN;CREDICORP LTD;Financial;Commer Banks Non-US;12750.67;12750668754.06; -   ; 1.00 ; 1.00 ;#N/A Field Not Applicable;Common Stock;PE;USD;05.08.2016;#N/A N/A;#N/A N/A
+BMG2759B1072 ISIN;DIGITAL CHINA HOLDINGS LTD;Consumer, Cyclical;Distribution/Wholesale;900.05;900050484.47; -   ; -   ; -   ;#N/A Field Not Applicable;Common Stock;HK;USD;27.07.2016;#N/A N/A;#N/A N/A
+BMG4069C1486 ISIN;GREAT EAGLE HOLDINGS LTD;Financial;Real Estate Oper/Develop;3078.46;3078456449.25; -   ; -   ; -   ;#N/A Field Not Applicable;Common Stock;HK;USD;05.08.2016;#N/A N/A;#N/A N/A
+BMG423131256 ISIN;HAIER ELECTRONICS GROUP CO;Consumer, Cyclical;Appliances;5139.34;5139342213.12; -   ; -   ; -   ;#N/A Field Not Applicable;Common Stock;HK;USD;05.08.2016;#N/A N/A;#N/A N/A
+BMG524401079 ISIN;KERRY PROPERTIES LTD;Financial;Real Estate Oper/Develop;3564.57;3564574888.16; -   ; -   ; -   ;#N/A Field Not Applicable;Common Stock;HK;USD;13.07.2016;NR;#N/A N/A
+BMG5485F1692 ISIN;LI & FUNG LTD;Consumer, Cyclical;Distribution/Wholesale;4123.57;4123569179.94; -   ; -   ; -   ;#N/A Field Not Applicable;Common Stock;HK;USD;29.07.2016;BBB+;Baa1
+BMG5800U1071 ISIN;MAN WAH HOLDINGS LTD;Consumer, Cyclical;Retail-Home Furnishings;2851.22;2851219408.00; -   ; -   ; -   ;#N/A Field Not Applicable;Common Stock;HK;USD;05.08.2016;#N/A N/A;#N/A N/A
+BMG653181005 ISIN;NINE DRAGONS PAPER HOLDINGS;Basic Materials;Paper&Related Products;3858.96;3858964610.70; -   ; -   ; -   ;#N/A Field Not Applicable;Common Stock;HK;USD;25.07.2016;NR;#N/A N/A
+BMG667211046 ISIN;NORWEGIAN CRUISE LINE HOLDIN;Consumer, Cyclical;Cruise Lines;9784.00;9783995881.50; -   ; -   ; -   ;#N/A Field Not Applicable;Common Stock;US;USD;05.08.2016;NR;#N/A N/A
+BMG668971101 ISIN;NWS HOLDINGS LTD;Diversified;Diversified Operations;5709.63;#N/A N/A; -   ;;;#N/A Field Not Applicable;Common Stock;HK;USD;#N/A Field Not Applicable;NR;#N/A N/A
+BMG677491539 ISIN;ORIENT OVERSEAS INTL LTD;Industrial;Transport-Marine;2190.28;2190276539.50; -   ; -   ; -   ;#N/A Field Not Applicable;Common Stock;HK;USD;28.07.2016;#N/A N/A;#N/A N/A
+BMG6955J1036 ISIN;PAX GLOBAL TECHNOLOGY LTD;Technology;Computers-Integrated Sys;782.51;782511800.00; -   ; -   ; -   ;#N/A Field Not Applicable;Common Stock;HK;USD;05.08.2016;#N/A N/A;#N/A N/A
+BMG8065B1037 ISIN;SHANGHAI INDUSTRIAL URBAN DE;Financial;Real Estate Oper/Develop;817.96;#N/A N/A; -   ;;;#N/A Field Not Applicable;Common Stock;HK;USD;#N/A Field Not Applicable;NR;#N/A N/A
+BMG8165U1009 ISIN;SINOPEC KANTONS HOLDINGS;Energy;Oil-Field Services; #N/A N/A ; #N/A N/A ;;;;#N/A Field Not Applicable;Common Stock;HK;USD;#N/A Field Not Applicable;#N/A N/A;#N/A N/A
+BMG8181C1001 ISIN;SKYWORTH DIGITAL HLDGS LTD;Consumer, Cyclical;Audio/Video Products;2356.77;2356773910.40; -   ; -   ; -   ;#N/A Field Not Applicable;Common Stock;HK;USD;05.08.2016;#N/A N/A;#N/A N/A
+BMG8565U1302 ISIN;SUMMIT ASCENT HOLDINGS LTD;Industrial;Bldg&Construct Prod-Misc;297.10;297099167.20; -   ; -   ; -   ;#N/A Field Not Applicable;Common Stock;HK;USD;28.06.2016;#N/A N/A;#N/A N/A
+BMG8770Z1068 ISIN;TEXWINCA HOLDINGS LTD;Consumer, Cyclical;Textile-Products;967.19;967187272.80; -   ; 1.00 ; 1.00 ;#N/A Field Not Applicable;Common Stock;HK;USD;26.07.2016;#N/A N/A;#N/A N/A
+CA0679011084 ISIN;BARRICK GOLD CORP;Basic Materials;Gold Mining;24749.17;24749171039.16; -   ; 1.00 ; 1.00 ;#N/A Field Not Applicable;Common Stock;CA;USD;05.08.2016;BBB-;#N/A N/A
+CA0679011084 ISIN;BARRICK GOLD CORP;Basic Materials;Gold Mining;24749.17;24749171039.16; -   ; -   ; -   ;#N/A Field Not Applicable;Common Stock;CA;USD;05.08.2016;BBB-;#N/A N/A
+CA09228F1036 ISIN;BLACKBERRY LTD;Technology;Computers;4050.57;4050569724.50; -   ; -   ; -   ;#N/A Field Not Applicable;Common Stock;CA;USD;05.08.2016;#N/A N/A;#N/A N/A
+CA1249003098 ISIN;CCL INDUSTRIES INC - CL B;Industrial;Containers-Metal/Glass;6489.54;6490284157.22; -   ; -   ; -   ;#N/A Field Not Applicable;Common Stock;CA;USD;05.08.2016;#N/A N/A;#N/A N/A
+CA1254911003 ISIN;CI FINANCIAL CORP;Financial;Invest Mgmnt/Advis Serv;5340.79;5340788973.00; -   ; -   ; -   ;#N/A Field Not Applicable;Common Stock;CA;USD;05.08.2016;A-;#N/A N/A
+CA13645T1003 ISIN;CANADIAN PACIFIC RAILWAY LTD;Industrial;Transport-Rail;21250.56;21250557101.28; -   ; -   ; -   ;#N/A Field Not Applicable;Common Stock;CA;USD;05.08.2016;BBB+;#N/A N/A
+CA13645T1003 ISIN;CANADIAN PACIFIC RAILWAY LTD;Industrial;Transport-Rail;21250.56;21250557101.28; -   ; -   ; -   ;#N/A Field Not Applicable;Common Stock;CA;USD;05.08.2016;BBB+;#N/A N/A
+CA2506691088 ISIN;DETOUR GOLD CORP;Basic Materials;Gold Mining;4435.37;4435374392.24; -   ; -   ; -   ;#N/A Field Not Applicable;Common Stock;CA;USD;05.08.2016;#N/A N/A;#N/A N/A
+CA2861812014 ISIN;ELEMENT FINANCIAL CORP;Financial;Finance-Leasing Compan;4057.58;4057584454.46; -   ; -   ; -   ;#N/A Field Not Applicable;Common Stock;CA;USD;05.08.2016;#N/A N/A;#N/A N/A
+CA2861812014 ISIN;ELEMENT FINANCIAL CORP;Financial;Finance-Leasing Compan;4057.58;4057584454.46; -   ; -   ; -   ;#N/A Field Not Applicable;Common Stock;CA;USD;05.08.2016;#N/A N/A;#N/A N/A
+CA3039011026 ISIN;FAIRFAX FINANCIAL HLDGS LTD;Financial;Property/Casualty Ins;13553.68;13554710122.52; -   ; -   ; -   ;#N/A Field Not Applicable;Common Stock;CA;USD;05.08.2016;BBB-;#N/A N/A
+CA39945C1095 ISIN;CGI GROUP INC - CLASS A;Technology;Computers-Integrated Sys;14949.32;14950459349.19; -   ; -   ; -   ;#N/A Field Not Applicable;Common Stock;CA;USD;05.08.2016;#N/A N/A;#N/A N/A
+CA4509131088 ISIN;IAMGOLD CORP;Basic Materials;Gold Mining;2249.16;2249164102.00; -   ; -   ; -   ;#N/A Field Not Applicable;Common Stock;CA;USD;05.08.2016;B;#N/A N/A
+CA45245E1097 ISIN;IMAX CORP;Industrial;Industr Audio&Video Prod;2169.08;2169084112.32; -   ; -   ; -   ;#N/A Field Not Applicable;Common Stock;CA;USD;05.08.2016;NR;WR
+CA53278L1076 ISIN;LINAMAR CORP;Consumer, Cyclical;Auto/Trk Prts&Equip-Orig;2600.05;2600052722.24; -   ; -   ; -   ;#N/A Field Not Applicable;Common Stock;CA;USD;29.07.2016;#N/A N/A;#N/A N/A
+CA53278L1076 ISIN;LINAMAR CORP;Consumer, Cyclical;Auto/Trk Prts&Equip-Orig;2600.05;2600052722.24; -   ; -   ; -   ;#N/A Field Not Applicable;Common Stock;CA;USD;29.07.2016;#N/A N/A;#N/A N/A
+CA5592224011 ISIN;MAGNA INTERNATIONAL INC;Consumer, Cyclical;Auto/Trk Prts&Equip-Orig;15555.19;15555194106.32; -   ; -   ; -   ;#N/A Field Not Applicable;Common Stock;CA;USD;05.08.2016;A-;Baa1
+CA5592224011 ISIN;MAGNA INTERNATIONAL INC;Consumer, Cyclical;Auto/Trk Prts&Equip-Orig;15555.19;15555194106.32; -   ; -   ; -   ;#N/A Field Not Applicable;Common Stock;CA;USD;05.08.2016;A-;Baa1
+CA5753851099 ISIN;MASONITE INTERNATIONAL CORP;Industrial;Bldg Prod-Doors&Windows;2189.72;2189716674.78; -   ; -   ; -   ;#N/A Field Not Applicable;Common Stock;US;USD;05.08.2016;BB;#N/A N/A
+CA8849031056 ISIN;THOMSON REUTERS CORP;Communications;Multimedia;30983.78;30983779656.04; -   ; -   ; -   ;#N/A Field Not Applicable;Common Stock;US;USD;05.08.2016;BBB+;#N/A N/A
+CA8849031056 ISIN;THOMSON REUTERS CORP;Communications;Multimedia;30983.78;30983779656.04; -   ; -   ; -   ;#N/A Field Not Applicable;Common Stock;US;USD;05.08.2016;BBB+;#N/A N/A
+CA9004351081 ISIN;TURQUOISE HILL RESOURCES LTD;Basic Materials;Metal-Copper;6318.67;6318667432.66; -   ; -   ; -   ;#N/A Field Not Applicable;Common Stock;CA;USD;05.08.2016;#N/A N/A;#N/A N/A
+CA91911K1021 ISIN;VALEANT PHARMACEUTICALS INTE;Consumer, Non-cyclical;Medical-Drugs;7492.55;7492554074.52; -   ; -   ; -   ;#N/A Field Not Applicable;Common Stock;US;USD;05.08.2016;B;WR
+CH0000587979 ISIN;SIKA AG-BR;Industrial;Bldg&Construct Prod-Misc;11700.38;11702345534.25; -   ; -   ; -   ;#N/A Field Not Applicable;Common Stock;CH;USD;13.07.2016;A-;#N/A N/A
+CH0000587979 ISIN;SIKA AG-BR;Industrial;Bldg&Construct Prod-Misc;11700.38;11702345534.25; -   ; -   ; -   ;#N/A Field Not Applicable;Common Stock;CH;USD;13.07.2016;A-;#N/A N/A
+CH0000816824 ISIN;OC OERLIKON CORP AG-REG;Industrial;Machinery-General Indust;4058.87;#N/A N/A; -   ;;;#N/A Field Not Applicable;Common Stock;CH;USD;#N/A Field Not Applicable;#N/A N/A;#N/A N/A
+CH0000816824 ISIN;OC OERLIKON CORP AG-REG;Industrial;Machinery-General Indust;4058.87;#N/A N/A; -   ;;;#N/A Field Not Applicable;Common Stock;CH;USD;#N/A Field Not Applicable;#N/A N/A;#N/A N/A
+CH0002168083 ISIN;PANALPINA WELTTRANSPORT -REG;Industrial;Transport-Services;3187.25;3187250000.00; -   ; -   ; -   ;#N/A Field Not Applicable;Common Stock;CH;USD;02.08.2016;#N/A N/A;#N/A N/A
+CH0002361068 ISIN;STARRAG GROUP HOLDING AG;Industrial;Mach Tools&Rel Products;154.80;154795200.00; -   ; -   ; -   ;#N/A Field Not Applicable;Common Stock;CH;USD;15.07.2016;#N/A N/A;#N/A N/A
+CH0005795668 ISIN;SCHMOLZ+BICKENBACH AG-REG;Basic Materials;Steel-Producers; #N/A N/A ; #N/A N/A ;;;;#N/A Field Not Applicable;Common Stock;CH;USD;#N/A Field Not Applicable;B+;#N/A N/A
+CH0005795668 ISIN;SCHMOLZ+BICKENBACH AG-REG;Basic Materials;Steel-Producers; #N/A N/A ; #N/A N/A ;;;;#N/A Field Not Applicable;Common Stock;CH;USD;#N/A Field Not Applicable;B+;#N/A N/A
+CH0008742519 ISIN;SWISSCOM AG-REG;Communications;Telephone-Integrated;25117.73;25117726121.84; -   ; -   ; -   ;#N/A Field Not Applicable;Common Stock;CH;USD;27.07.2016;A;A2
+CH0008742519 ISIN;SWISSCOM AG-REG;Communications;Telephone-Integrated;25117.73;25117726121.84; -   ; -   ; -   ;#N/A Field Not Applicable;Common Stock;CH;USD;27.07.2016;A;A2
+CH0010532478 ISIN;ACTELION LTD-REG;Consumer, Non-cyclical;Medical-Drugs;18265.56;18265561876.50; -   ; 1.00 ; 1.00 ;#N/A Field Not Applicable;Common Stock;CH;USD;03.08.2016;#N/A N/A;#N/A N/A
+CH0010570759 ISIN;CHOCOLADEFABRIKEN LINDT-REG;Consumer, Non-cyclical;Food-Confectionery;15447.73;15450328468.39; -   ;;;#N/A Field Not Applicable;Common Stock;CH;USD;#N/A Field Not Applicable;#N/A N/A;#N/A N/A
+CH0010570759 ISIN;CHOCOLADEFABRIKEN LINDT-REG;Consumer, Non-cyclical;Food-Confectionery;15447.73;15450328468.39; -   ;;;#N/A Field Not Applicable;Common Stock;CH;USD;#N/A Field Not Applicable;#N/A N/A;#N/A N/A
+CH0010570767 ISIN;CHOCOLADEFABRIKEN LINDT-PC;Consumer, Non-cyclical;Food-Confectionery;15447.73;15450328468.39; -   ; -   ; -   ;#N/A Field Not Applicable;Common Stock;CH;USD;01.08.2016;#N/A N/A;#N/A N/A
+CH0010645932 ISIN;GIVAUDAN-REG;Basic Materials;Chemicals-Specialty;18961.54;18961538194.44; -   ; -   ; -   ;#N/A Field Not Applicable;Common Stock;CH;USD;04.08.2016;#N/A N/A;#N/A N/A
+CH0011037469 ISIN;SYNGENTA AG-REG;Basic Materials;Agricultural Chemicals;36188.80;36188798444.10; 1.00 ; -   ; 1.00 ;#N/A Field Not Applicable;Common Stock;CH;USD;05.08.2016;A+     *-;A2 *-
+CH0011075394 ISIN;ZURICH INSURANCE GROUP AG;Financial;Multi-line Insurance;36198.13;36198129212.03; 1.00 ; -   ; 1.00 ;#N/A Field Not Applicable;Common Stock;CH;USD;05.08.2016;#N/A N/A;#N/A N/A
+CH0011075394 ISIN;ZURICH INSURANCE GROUP AG;Financial;Multi-line Insurance;36198.13;36198129212.03; 1.00 ; -   ; 1.00 ;#N/A Field Not Applicable;Common Stock;CH;USD;05.08.2016;#N/A N/A;#N/A N/A
+CH0012032048 ISIN;ROCHE HOLDING AG-GENUSSCHEIN;Consumer, Non-cyclical;Medical-Drugs;219221.21;219114908410.67; 1.00 ; -   ; 1.00 ;#N/A Field Not Applicable;Common Stock;CH;USD;04.08.2016;AA;A1
+CH0012032113 ISIN;ROCHE HOLDING AG-BR;Consumer, Non-cyclical;Medical-Drugs;219221.21;219114908410.67; 1.00 ; -   ; 1.00 ;#N/A Field Not Applicable;Common Stock;CH;USD;03.08.2016;AA;A1
+CH0012138605 ISIN;ADECCO GROUP AG-REG;Consumer, Non-cyclical;Human Resources;9084.97;9084970405.96; -   ; -   ; -   ;#N/A Field Not Applicable;Common Stock;CH;USD;19.07.2016;BBB+;Baa1
+CH0012214059 ISIN;LAFARGEHOLCIM LTD-REG;Industrial;Bldg Prod-Cement/Aggreg;28606.66;28606659485.80; -   ; -   ; -   ;#N/A Field Not Applicable;Common Stock;CH;USD;04.08.2016;BBB;Baa2
+CH0012221716 ISIN;ABB LTD-REG;Industrial;Machinery-Electric Util;47212.79;47212789530.32; 1.00 ; 1.00 ; 1.00 ;#N/A Field Not Applicable;Common Stock;CH;USD;29.07.2016;A;A2
+CH0012255144 ISIN;SWATCH GROUP AG/THE-REG;Consumer, Cyclical;Retail-Jewelry;14196.62;14192722332.94; -   ; 1.00 ; 1.00 ;#N/A Field Not Applicable;Common Stock;CH;USD;28.07.2016;#N/A N/A;#N/A N/A
+CH0012255144 ISIN;SWATCH GROUP AG/THE-REG;Consumer, Cyclical;Retail-Jewelry;14196.62;14192722332.94; -   ; -   ; -   ;#N/A Field Not Applicable;Common Stock;CH;USD;28.07.2016;#N/A N/A;#N/A N/A
+CH0012255151 ISIN;SWATCH GROUP AG/THE-BR;Consumer, Cyclical;Retail-Jewelry;14196.62;14192722332.94; -   ; -   ; -   ;#N/A Field Not Applicable;Common Stock;CH;USD;04.08.2016;#N/A N/A;#N/A N/A
+CH0012268360 ISIN;KUDELSKI SA-BR;Technology;Computer Software;1146.51;1143937174.53; -   ; -   ; -   ;#N/A Field Not Applicable;Common Stock;CH;USD;18.07.2016;#N/A N/A;#N/A N/A
+CH0012271687 ISIN;HELVETIA HOLDING AG-REG;Financial;Multi-line Insurance;4957.65;4955164510.25; -   ; -   ; -   ;#N/A Field Not Applicable;Common Stock;CH;CHF;08.08.2016;#N/A N/A;#N/A N/A
+CH0012410517 ISIN;BALOISE HOLDING AG - REG;Financial;Multi-line Insurance;6000.00;#N/A N/A; -   ;;;#N/A Field Not Applicable;Common Stock;CH;USD;#N/A Field Not Applicable;#N/A N/A;#N/A N/A
+CH0012829898 ISIN;EMMI AG-REG;Consumer, Non-cyclical;Food-Dairy Products;3351.76;3351762961.20; -   ; -   ; -   ;#N/A Field Not Applicable;Common Stock;CH;USD;14.07.2016;#N/A N/A;#N/A N/A
+CH0013841017 ISIN;LONZA GROUP AG-REG;Basic Materials;Chemicals-Specialty;9528.27;9528271207.00; -   ; -   ; -   ;#N/A Field Not Applicable;Common Stock;CH;USD;21.07.2016;#N/A N/A;#N/A N/A
+CH0014852781 ISIN;SWISS LIFE HOLDING AG-REG;Financial;Life/Health Insurance;7250.33;7250332442.00; -   ; -   ; -   ;#N/A Field Not Applicable;Common Stock;CH;USD;18.07.2016;BBB+;#N/A N/A
+CH0015536466 ISIN;GALENICA AG-REG;Consumer, Non-cyclical;Medical-Whsle Drug Dist;8547.50;8547500000.00; -   ; 1.00 ; 1.00 ;#N/A Field Not Applicable;Common Stock;CH;USD;03.08.2016;#N/A N/A;#N/A N/A
+CH0021783391 ISIN;PARGESA HOLDING SA-BR;Financial;Investment Companies;5857.40;5858383044.43; -   ; -   ; -   ;#N/A Field Not Applicable;Common Stock;CH;USD;05.08.2016;#N/A N/A;#N/A N/A
+CH0023868554 ISIN;IMPLENIA AG-REG;Industrial;Building&Construct-Misc;1245.94;1243165600.00; -   ; -   ; -   ;#N/A Field Not Applicable;Common Stock;CH;CHF;08.08.2016;#N/A N/A;#N/A N/A
+CH0024021302 ISIN;DEPFA ACS BANK;Financial;Commer Banks Non-US; #N/A Field Not Applicable ; #N/A N/A ;; -   ; -   ;200000000;EURO MTN;IE;CHF;08.08.2016;A-;#N/A N/A
+CH0024638196 ISIN;SCHINDLER HOLDING-PART CERT;Industrial;Machinery-Electrical;20618.31;20621779372.51; -   ; -   ; -   ;#N/A Field Not Applicable;Common Stock;CH;USD;05.08.2016;#N/A N/A;#N/A N/A
+CH0025238863 ISIN;KUEHNE & NAGEL INTL AG-REG;Industrial;Transport-Services;16692.00;16692000000.00; -   ; -   ; -   ;#N/A Field Not Applicable;Common Stock;CH;USD;25.07.2016;#N/A N/A;#N/A N/A
+CH0030486770 ISIN;DAETWYLER HOLDING AG-BR;Industrial;Wire&Cable Products;2271.99;2275834666.52; -   ;;;#N/A Field Not Applicable;Common Stock;CH;USD;#N/A Field Not Applicable;#N/A N/A;#N/A N/A
+CH0030486770 ISIN;DAETWYLER HOLDING AG-BR;Industrial;Wire&Cable Products;2271.99;2275834666.52; -   ;;;#N/A Field Not Applicable;Common Stock;CH;USD;#N/A Field Not Applicable;#N/A N/A;#N/A N/A
+CH0038389992 ISIN;BB BIOTECH AG-REG;Financial;Closed-end Funds; #N/A N/A ; #N/A N/A ;; -   ; -   ;#N/A Field Not Applicable;Closed-End Fund;CH;USD;26.07.2016;#N/A N/A;#N/A N/A
+CH0038863350 ISIN;NESTLE SA-REG;Consumer, Non-cyclical;Food-Misc/Diversified;248039.14;248039152000.00; 1.00 ; -   ; 1.00 ;#N/A Field Not Applicable;Common Stock;CH;USD;05.08.2016;AA;Aa2
+CH0038863350 ISIN;NESTLE SA-REG;Consumer, Non-cyclical;Food-Misc/Diversified;248039.14;248039152000.00; 1.00 ; -   ; 1.00 ;#N/A Field Not Applicable;Common Stock;CH;USD;05.08.2016;AA;Aa2
+CH0039821084 ISIN;METALL ZUG AG-REG;Diversified;Diversified Operations;1328.32;1328544598.88; -   ;;;#N/A Field Not Applicable;Common Stock;CH;USD;#N/A Field Not Applicable;#N/A N/A;#N/A N/A
+CH0043238366 ISIN;ARYZTA AG;Consumer, Non-cyclical;Food-Baking;3454.83;3454830394.42; -   ; 1.00 ; 1.00 ;#N/A Field Not Applicable;Common Stock;CH;USD;04.08.2016;#N/A N/A;#N/A N/A
+CH0043238366 ISIN;ARYZTA AG;Consumer, Non-cyclical;Food-Baking;3454.83;3454830394.42; -   ; 1.00 ; 1.00 ;#N/A Field Not Applicable;Common Stock;CH;USD;04.08.2016;#N/A N/A;#N/A N/A
+CH0045159024 ISIN;FINANCIERE RICHEMONT-DEP REC;Consumer, Cyclical;Retail-Jewelry;33849.09;33849089954.15; 1.00 ;;;#N/A Field Not Applicable;Receipt;CH;USD;#N/A Field Not Applicable;#N/A N/A;#N/A N/A
+CH0102484968 ISIN;JULIUS BAER GROUP LTD;Financial;Diversified Finan Serv;9109.04;9109044533.60; -   ; -   ; -   ;#N/A Field Not Applicable;Common Stock;CH;USD;03.08.2016;#N/A N/A;A3
+CH0121032772 ISIN;ALLIED WORLD ASSURANCE CO;Financial;Reinsurance;3543.71;3543711037.62; -   ; -   ; -   ;#N/A Field Not Applicable;Common Stock;CH;USD;05.08.2016;BBB+;#N/A N/A
+CH0126881561 ISIN;SWISS RE AG;Financial;Reinsurance;30498.14;30498145916.70; -   ; -   ; -   ;#N/A Field Not Applicable;Common Stock;CH;USD;05.08.2016;A;#N/A N/A
+CH0126881561 ISIN;SWISS RE AG;Financial;Reinsurance;30498.14;30498145916.70; -   ; -   ; -   ;#N/A Field Not Applicable;Common Stock;CH;USD;05.08.2016;A;#N/A N/A
+CH0239518779 ISIN;HIAG IMMOBILIEN AG;Financial;Real Estate Oper/Develop;791.20;791200000.00; -   ; -   ; -   ;#N/A Field Not Applicable;Common Stock;CH;CHF;08.08.2016;#N/A N/A;#N/A N/A
+CH0244100266 ISIN;UBS AG;Financial;Diversified Banking Inst; #N/A Field Not Applicable ; #N/A N/A ;; -   ; -   ;2500000000;EURO-DOLLAR;CH;USD;04.08.2016;A+;A1
+CH0244767585 ISIN;UBS GROUP AG-REG;Financial;Diversified Banking Inst;51824.75;51824745487.28; 1.00 ; -   ; 1.00 ;#N/A Field Not Applicable;Common Stock;CH;USD;05.08.2016;A-;#N/A N/A
+CH0244767585 ISIN;UBS GROUP AG-REG;Financial;Diversified Banking Inst;51824.75;51824745487.28; 1.00 ; -   ; 1.00 ;#N/A Field Not Applicable;Common Stock;CH;USD;05.08.2016;A-;#N/A N/A
+CNE1000001Q4 ISIN;CHINA CITIC BANK CORP LTD-H;Financial;Commer Banks Non-US;40254.85;40261754995.88; 1.00 ; -   ; 1.00 ;#N/A Field Not Applicable;Common Stock;CN;USD;25.07.2016;#N/A N/A;#N/A N/A
+CNE1000001S0 ISIN;AIR CHINA LTD-H;Consumer, Cyclical;Airlines;13717.40;13719694491.69; -   ; 1.00 ; 1.00 ;#N/A Field Not Applicable;Common Stock;CN;USD;26.07.2016;#N/A N/A;#N/A N/A
+CNE1000001T8 ISIN;ALUMINUM CORP OF CHINA LTD-H;Basic Materials;Metal-Aluminum;7897.72;7899174261.14; -   ; 1.00 ; 1.00 ;#N/A Field Not Applicable;Common Stock;CN;USD;13.07.2016;#N/A N/A;#N/A N/A
+CNE1000001W2 ISIN;ANHUI CONCH CEMENT CO LTD-H;Industrial;Bldg Prod-Cement/Aggreg;13866.01;13868300378.74; -   ; 1.00 ; 1.00 ;#N/A Field Not Applicable;Common Stock;CN;USD;05.08.2016;A-;A3
+CNE1000001Y8 ISIN;AVICHINA INDUSTRY & TECH-H;Industrial;Aerospace/Defense-Equip;4484.10;4484099899.49; -   ;;;#N/A Field Not Applicable;Common Stock;CN;USD;#N/A Field Not Applicable;#N/A N/A;#N/A N/A
+CNE1000001Z5 ISIN;BANK OF CHINA LTD-H;Financial;Commer Banks Non-US;141326.97;141350755669.98; 1.00 ; -   ; 1.00 ;#N/A Field Not Applicable;Common Stock;CN;USD;05.08.2016;A;#N/A N/A
+CNE1000001Z5 ISIN;BANK OF CHINA LTD-H;Financial;Commer Banks Non-US;141326.97;141350755669.98; 1.00 ; -   ; 1.00 ;#N/A Field Not Applicable;Common Stock;CN;USD;05.08.2016;A;#N/A N/A
+CNE100000205 ISIN;BANK OF COMMUNICATIONS CO-H;Financial;Commer Banks Non-US;57839.12;57846568559.25; 1.00 ; -   ; 1.00 ;#N/A Field Not Applicable;Common Stock;CN;USD;27.06.2016;A-;#N/A N/A
+CNE100000205 ISIN;BANK OF COMMUNICATIONS CO-H;Financial;Commer Banks Non-US;57839.12;57846568559.25; 1.00 ; -   ; 1.00 ;#N/A Field Not Applicable;Common Stock;CN;USD;27.06.2016;A-;#N/A N/A
+CNE100000296 ISIN;BYD CO LTD-H;Consumer, Cyclical;Auto-Cars/Light Trucks;21951.06;21954665153.50; -   ; 1.00 ; 1.00 ;#N/A Field Not Applicable;Common Stock;CN;USD;05.08.2016;#N/A N/A;#N/A N/A
+CNE1000002D0 ISIN;CHINA BLUECHEMICAL LTD - H;Basic Materials;Agricultural Chemicals;956.84;956844595.46; -   ; 1.00 ; 1.00 ;#N/A Field Not Applicable;Common Stock;CN;USD;08.07.2016;#N/A N/A;#N/A N/A
+CNE1000002F5 ISIN;CHINA COMMUNICATIONS CONST-H;Industrial;Building&Construct-Misc;24305.90;24310166612.70; -   ;;;#N/A Field Not Applicable;Common Stock;CN;USD;#N/A Field Not Applicable;#N/A N/A;#N/A N/A
+CNE1000002G3 ISIN;CHINA COMMUNICATIONS SERVI-H;Industrial;Building-Heavy Construct;3839.43;3839429552.10; -   ;;;#N/A Field Not Applicable;Common Stock;CN;USD;#N/A Field Not Applicable;#N/A N/A;#N/A N/A
+CNE1000002H1 ISIN;CHINA CONSTRUCTION BANK-H;Financial;Commer Banks Non-US;175922.26;175923907328.86; 1.00 ; -   ; 1.00 ;#N/A Field Not Applicable;Common Stock;CN;USD;05.08.2016;A;#N/A N/A
+CNE1000002H1 ISIN;CHINA CONSTRUCTION BANK-H;Financial;Commer Banks Non-US;175922.26;175923907328.86; 1.00 ; -   ; 1.00 ;#N/A Field Not Applicable;Common Stock;CN;USD;05.08.2016;A;#N/A N/A
+CNE1000002K5 ISIN;CHINA EASTERN AIRLINES CO-H;Consumer, Cyclical;Airlines;12686.50;12688774401.34; -   ; -   ; -   ;#N/A Field Not Applicable;Common Stock;CN;USD;30.06.2016;#N/A N/A;#N/A N/A
+CNE1000002L3 ISIN;CHINA LIFE INSURANCE CO-H;Financial;Life/Health Insurance;82339.56;82354176843.69; 1.00 ; -   ; 1.00 ;#N/A Field Not Applicable;Common Stock;CN;USD;28.07.2016;AA-;#N/A N/A
+CNE1000002L3 ISIN;CHINA LIFE INSURANCE CO-H;Financial;Life/Health Insurance;82339.56;82354176843.69; 1.00 ; 1.00 ; 1.00 ;#N/A Field Not Applicable;Common Stock;CN;USD;28.07.2016;AA-;#N/A N/A
+CNE1000002M1 ISIN;CHINA MERCHANTS BANK-H;Financial;Commer Banks Non-US;63388.66;63400601656.10; 1.00 ; 1.00 ; 1.00 ;#N/A Field Not Applicable;Common Stock;CN;USD;19.07.2016;BBB+;#N/A N/A
+CNE1000002R0 ISIN;CHINA SHENHUA ENERGY CO-H;Energy;Coal;44435.47;44443999818.79; 1.00 ; -   ; 1.00 ;#N/A Field Not Applicable;Common Stock;CN;USD;01.08.2016;AA-;#N/A N/A
+CNE1000002S8 ISIN;CHINA SHIPPING DEVELOPMENT-H;Industrial;Transport-Marine;3433.64;3434233379.59; -   ; 1.00 ; 1.00 ;#N/A Field Not Applicable;Common Stock;CN;USD;05.07.2016;#N/A N/A;#N/A N/A
+CNE1000002V2 ISIN;CHINA TELECOM CORP LTD-H;Communications;Telecom Services;41212.97;41212973678.91; 1.00 ; 1.00 ; 1.00 ;#N/A Field Not Applicable;Common Stock;CN;USD;20.07.2016;#N/A N/A;#N/A N/A
+CNE1000002Z3 ISIN;DATANG INTL POWER GEN CO-H;Utilities;Electric-Generation;6952.91;6954281171.29; -   ;;;#N/A Field Not Applicable;Common Stock;CN;USD;#N/A Field Not Applicable;#N/A N/A;#N/A N/A
+CNE100000304 ISIN;DONGFANG ELECTRIC CORP LTD-H;Industrial;Power Conv/Supply Equip;3228.19;3228855991.34; -   ;;;#N/A Field Not Applicable;Common Stock;CN;USD;#N/A Field Not Applicable;#N/A N/A;#N/A N/A
+CNE100000312 ISIN;DONGFENG MOTOR GRP CO LTD-H;Consumer, Cyclical;Auto-Cars/Light Trucks;10463.51;10463506744.02; -   ; -   ; -   ;#N/A Field Not Applicable;Common Stock;CN;USD;11.07.2016;A;A1
+CNE100000338 ISIN;GREAT WALL MOTOR COMPANY-H;Consumer, Cyclical;Auto-Cars/Light Trucks;12831.80;12833939013.62; -   ; -   ; -   ;#N/A Field Not Applicable;Common Stock;CN;USD;05.08.2016;#N/A N/A;#N/A N/A
+CNE100000387 ISIN;GUANGZHOU BAIYUNSHAN PHARM-H;Consumer, Non-cyclical;Therapeutics;4761.23;4762173792.22; -   ;;;#N/A Field Not Applicable;Common Stock;CN;USD;#N/A Field Not Applicable;#N/A N/A;#N/A N/A
+CNE1000003D8 ISIN;HUADIAN POWER INTL CORP-H;Utilities;Electric-Generation;7254.75;7256195654.04; -   ; -   ; -   ;#N/A Field Not Applicable;Common Stock;CN;USD;29.07.2016;#N/A N/A;#N/A N/A
+CNE1000003G1 ISIN;IND & COMM BK OF CHINA-H;Financial;Commer Banks Non-US;226624.36;226663896478.78; 1.00 ; -   ; 1.00 ;#N/A Field Not Applicable;Common Stock;CN;USD;05.08.2016;A;#N/A N/A
+CNE1000003R8 ISIN;MAANSHAN IRON & STEEL-H;Basic Materials;Steel-Producers;2847.03;2847572582.99; -   ; -   ; -   ;#N/A Field Not Applicable;Common Stock;CN;USD;03.08.2016;#N/A N/A;#N/A N/A
+CNE1000003W8 ISIN;PETROCHINA CO LTD-H;Energy;Oil Comp-Integrated;190860.33;190900046203.71; 1.00 ; -   ; 1.00 ;#N/A Field Not Applicable;Common Stock;CN;USD;29.07.2016;#N/A N/A;#N/A N/A
+CNE1000003W8 ISIN;PETROCHINA CO LTD-H;Energy;Oil Comp-Integrated;190860.33;190900046203.71; 1.00 ; -   ; 1.00 ;#N/A Field Not Applicable;Common Stock;CN;USD;29.07.2016;#N/A N/A;#N/A N/A
+CNE1000003X6 ISIN;PING AN INSURANCE GROUP CO-H;Financial;Multi-line Insurance;88513.28;88525086262.16; 1.00 ; 1.00 ; 1.00 ;#N/A Field Not Applicable;Common Stock;CN;USD;01.08.2016;#N/A N/A;#N/A N/A
+CNE1000003X6 ISIN;PING AN INSURANCE GROUP CO-H;Financial;Multi-line Insurance;88513.28;88525086262.16; 1.00 ; -   ; 1.00 ;#N/A Field Not Applicable;Common Stock;CN;USD;01.08.2016;#N/A N/A;#N/A N/A
+CNE100000437 ISIN;SHANGHAI ELECTRIC GRP CO L-H;Industrial;Machinery-General Indust;13383.91;13386641045.35; -   ;;;#N/A Field Not Applicable;Common Stock;CN;USD;#N/A Field Not Applicable;A;#N/A N/A
+CNE1000004C8 ISIN;SINOPEC SHANGHAI PETROCHEM-H;Basic Materials;Petrochemicals;8481.87;8483379388.79; -   ;;;#N/A Field Not Applicable;Common Stock;CN;USD;#N/A Field Not Applicable;#N/A N/A;#N/A N/A
+CNE1000004J3 ISIN;TRAVELSKY TECHNOLOGY LTD-H;Technology;Applications Software;5832.16;5832161271.03; -   ; 1.00 ; 1.00 ;#N/A Field Not Applicable;Common Stock;CN;USD;01.08.2016;#N/A N/A;#N/A N/A
+CNE1000004L9 ISIN;WEICHAI POWER CO LTD-H;Consumer, Cyclical;Auto/Trk Prts&Equip-Repl;5498.08;5499025514.24; -   ; 1.00 ; 1.00 ;#N/A Field Not Applicable;Common Stock;CN;USD;23.06.2016;BBB    *-;#N/A N/A
+CNE1000004S4 ISIN;ZHEJIANG EXPRESSWAY CO-H;Consumer, Non-cyclical;Public Thoroughfares;4720.02;4720015887.44; -   ; -   ; -   ;#N/A Field Not Applicable;Common Stock;CN;USD;28.06.2016;#N/A N/A;#N/A N/A
+CNE1000004Y2 ISIN;ZTE CORP-H;Communications;Telecommunication Equip;8665.66;8667363176.82; -   ; -   ; -   ;#N/A Field Not Applicable;Common Stock;CN;USD;04.08.2016;#N/A N/A;#N/A N/A
+CNE100000528 ISIN;CHINA COAL ENERGY CO-H;Energy;Coal;10360.71;10362548179.94; -   ; -   ; -   ;#N/A Field Not Applicable;Common Stock;CN;USD;04.08.2016;#N/A N/A;#N/A N/A
+CNE100000536 ISIN;CHINA SHIPPING CONTAINER-H;Industrial;Transport-Marine;5619.69;5620767370.68; -   ; -   ; -   ;#N/A Field Not Applicable;Common Stock;CN;USD;20.07.2016;#N/A N/A;#N/A N/A
+CNE100000593 ISIN;PICC PROPERTY & CASUALTY-H;Financial;Property/Casualty Ins;24087.00;24086997757.20; -   ; -   ; -   ;#N/A Field Not Applicable;Common Stock;CN;USD;18.07.2016;#N/A N/A;#N/A N/A
+CNE1000006Z4 ISIN;HUANENG POWER INTL INC-H;Utilities;Electric-Generation;14187.37;14189921726.18; -   ; -   ; -   ;#N/A Field Not Applicable;Common Stock;CN;USD;29.07.2016;NR;#N/A N/A
+CNE1000007Z2 ISIN;CHINA RAILWAY GROUP LTD-H;Industrial;Building-Heavy Construct;22512.32;22516641524.47; -   ; -   ; -   ;#N/A Field Not Applicable;Common Stock;CN;USD;03.08.2016;BBB+;#N/A N/A
+CNE1000009Q7 ISIN;CHINA PACIFIC INSURANCE GR-H;Financial;Life/Health Insurance;35421.31;35427013514.08; 1.00 ; -   ; 1.00 ;#N/A Field Not Applicable;Common Stock;CN;USD;27.06.2016;#N/A N/A;#N/A N/A
+CNE100000F20 ISIN;BBMG CORPORATION-H;Industrial;Bldg Prod-Cement/Aggreg;6153.21;6154382021.37; -   ;;;#N/A Field Not Applicable;Common Stock;CN;USD;#N/A Field Not Applicable;#N/A N/A;#N/A N/A
+CNE100000FF3 ISIN;METALLURGICAL CORP OF CHIN-H;Industrial;Building-Heavy Construct;78225.96;78241961972.98; 1.00 ; -   ; 1.00 ;#N/A Field Not Applicable;Common Stock;CN;HKD;08.08.2016;#N/A N/A;#N/A N/A
+CNE100000FN7 ISIN;SINOPHARM GROUP CO-H;Consumer, Non-cyclical;Medical-Whsle Drug Dist;14269.17;14269168757.28; -   ; -   ; -   ;#N/A Field Not Applicable;Common Stock;CN;USD;04.08.2016;#N/A N/A;#N/A N/A
+CNE100000HD4 ISIN;CHINA LONGYUAN POWER GROUP-H;Energy;Energy-Alternate Sources;6982.89;6982894069.40; -   ;;;#N/A Field Not Applicable;Common Stock;CN;USD;#N/A Field Not Applicable;A-;#N/A N/A
+CNE100000HF9 ISIN;CHINA MINSHENG BANKING-H;Financial;Commer Banks Non-US;48326.14;48335351486.10; 1.00 ; -   ; 1.00 ;#N/A Field Not Applicable;Common Stock;CN;USD;19.07.2016;BBB;#N/A N/A
+CNE100000Q35 ISIN;GUANGZHOU AUTOMOBILE GROUP-H;Consumer, Cyclical;Auto-Cars/Light Trucks;19008.66;19012258336.29; -   ; 1.00 ; 1.00 ;#N/A Field Not Applicable;Common Stock;CN;USD;03.08.2016;#N/A N/A;#N/A N/A
+CNE100000Q43 ISIN;AGRICULTURAL BANK OF CHINA-H;Financial;Commer Banks Non-US;149333.90;149364901169.69; 1.00 ; -   ; 1.00 ;#N/A Field Not Applicable;Common Stock;CN;USD;01.08.2016;A;#N/A N/A
+CNE1000016V2 ISIN;CITIC SECURITIES CO LTD-H;Financial;Finance-Invest Bnkr/Brkr;29119.03;29124461872.54; -   ;;;#N/A Field Not Applicable;Common Stock;CN;USD;#N/A Field Not Applicable;BBB;#N/A N/A
+CNE100001922 ISIN;NEW CHINA LIFE INSURANCE C-H;Financial;Life/Health Insurance;127154.10;127176022109.81; 1.00 ; 1.00 ; 1.00 ;#N/A Field Not Applicable;Common Stock;CN;HKD;08.08.2016;#N/A N/A;#N/A N/A
+CNE1000019K9 ISIN;HAITONG SECURITIES CO LTD-H;Financial;Finance-Invest Bnkr/Brkr;5557.60;5557597176.60; -   ; -   ; -   ;#N/A Field Not Applicable;Common Stock;CN;USD;13.07.2016;BBB;#N/A N/A
+CNE100001F60 ISIN;HUADIAN FUXIN ENERGY CORP -H;Utilities;Electric-Generation;15806.97;15806967657.60; -   ; 1.00 ; 1.00 ;#N/A Field Not Applicable;Common Stock;CN;HKD;08.08.2016;#N/A N/A;#N/A N/A
+CNE100001MK7 ISIN;PEOPLE'S INSURANCE CO GROU-H;Financial;Property/Casualty Ins;16954.61;16954611037.24; -   ;;;#N/A Field Not Applicable;Common Stock;CN;USD;#N/A Field Not Applicable;#N/A N/A;#N/A N/A
+CNE100001NP4 ISIN;CHINA MACHINERY ENGINEERIN-H;Industrial;Building&Construct-Misc; #N/A N/A ; #N/A N/A ;;;;#N/A Field Not Applicable;Common Stock;CN;USD;#N/A Field Not Applicable;#N/A N/A;#N/A N/A
+CNE100001NT6 ISIN;CHINA GALAXY SECURITIES CO-H;Financial;Diversified Finan Serv;8717.35;8717348484.24; -   ;;;#N/A Field Not Applicable;Common Stock;CN;USD;#N/A Field Not Applicable;#N/A N/A;#N/A N/A
+CNE100001QN2 ISIN;BANK OF CHONGQING CO LTD-H;Financial;Commer Banks Non-US;18731.06;18731058281.95; -   ; -   ; -   ;#N/A Field Not Applicable;Common Stock;CN;HKD;08.08.2016;#N/A N/A;#N/A N/A
+CNE100001QS1 ISIN;CHINA CINDA ASSET MANAGEME-H;Financial;Invest Mgmnt/Advis Serv;12152.79;12152793220.82; -   ; -   ; -   ;#N/A Field Not Applicable;Common Stock;CN;USD;20.07.2016;A-;A3
+CNE100001QW3 ISIN;CHINA EVERBRIGHT BANK CO L-H;Financial;Commer Banks Non-US;2953.56;#N/A N/A; -   ;;;#N/A Field Not Applicable;Common Stock;CN;USD;#N/A Field Not Applicable;NR;#N/A N/A
+CNE100001T98 ISIN;DALIAN WANDA COMMERCIAL PR-H;Financial;Real Estate Oper/Develop;2773.33;#N/A N/A; -   ;;;#N/A Field Not Applicable;Common Stock;CN;USD;#N/A Field Not Applicable;BBB;#N/A N/A
+DE0001102333 ISIN;BUNDESREPUB. DEUTSCHLAND;Government;Sovereign; #N/A Field Not Applicable ; #N/A Field Not Applicable ;; -   ; -   ;18000000000;EURO-ZONE;DE;EUR;08.08.2016;AAAu;#N/A N/A
+DE0001137495 ISIN;BUNDESSCHATZANWEISUNGEN;Government;Sovereign; #N/A Field Not Applicable ; #N/A Field Not Applicable ;; -   ; -   ;14000000000;EURO-ZONE;DE;EUR;08.08.2016;AAAu;#N/A N/A
+DE0005140008 ISIN;DEUTSCHE BANK AG-REGISTERED;Financial;Diversified Banking Inst;18137.44;18137441672.65; -   ; 1.00 ; 1.00 ;#N/A Field Not Applicable;Common Stock;DE;USD;05.08.2016;BBB+;Baa2
+DE0005552004 ISIN;DEUTSCHE POST AG-REG;Industrial;Transport-Services;36988.99;36988987453.50; 1.00 ; 1.00 ; 1.00 ;#N/A Field Not Applicable;Common Stock;DE;USD;03.08.2016;NR;A3
+DE0005785604 ISIN;FRESENIUS SE & CO KGAA;Consumer, Non-cyclical;Dialysis Centers;40735.20;40724364414.67; 1.00 ; 1.00 ; 1.00 ;#N/A Field Not Applicable;Common Stock;DE;USD;20.07.2016;BBB-;Baa3
+DE0005785604 ISIN;FRESENIUS SE & CO KGAA;Consumer, Non-cyclical;Dialysis Centers;40735.20;40724364414.67; 1.00 ; 1.00 ; 1.00 ;#N/A Field Not Applicable;Common Stock;DE;USD;20.07.2016;BBB-;Baa3
+DE0005785802 ISIN;FRESENIUS MEDICAL CARE AG &;Consumer, Non-cyclical;Dialysis Centers;28598.26;28598259614.20; -   ; -   ; -   ;#N/A Field Not Applicable;Common Stock;DE;USD;02.08.2016;BBB-;WR
+DE0005785802 ISIN;FRESENIUS MEDICAL CARE AG &;Consumer, Non-cyclical;Dialysis Centers;28598.26;28598259614.20; -   ; -   ; -   ;#N/A Field Not Applicable;Common Stock;DE;USD;02.08.2016;BBB-;WR
+DE0005909006 ISIN;BILFINGER SE;Industrial;Engineering/R&D Services;1786.66;#N/A N/A; -   ;;;#N/A Field Not Applicable;Common Stock;DE;USD;#N/A Field Not Applicable;BB+;#N/A N/A
+DE0006231004 ISIN;INFINEON TECHNOLOGIES AG;Technology;Electronic Compo-Semicon;17887.83;17887828921.80; -   ; -   ; -   ;#N/A Field Not Applicable;Common Stock;DE;USD;02.08.2016;BBB;#N/A N/A
+DE0006483001 ISIN;LINDE AG;Basic Materials;Industrial Gases;27785.68;27785683728.00; -   ; -   ; -   ;#N/A Field Not Applicable;Common Stock;DE;USD;05.08.2016;A+;#N/A N/A
+DE0006483001 ISIN;LINDE AG;Basic Materials;Industrial Gases;27785.68;27785683728.00; -   ; -   ; -   ;#N/A Field Not Applicable;Common Stock;DE;USD;05.08.2016;A+;#N/A N/A
+DE0006599905 ISIN;MERCK KGAA;Consumer, Non-cyclical;Medical-Drugs;47570.76;47535936687.90; 1.00 ; 1.00 ; 1.00 ;#N/A Field Not Applicable;Common Stock;DE;USD;05.08.2016;A;Baa1
+DE0007100000 ISIN;DAIMLER AG-REGISTERED SHARES;Consumer, Cyclical;Auto-Cars/Light Trucks;72481.49;72481487034.25; 1.00 ; -   ; 1.00 ;#N/A Field Not Applicable;Common Stock;DE;USD;05.08.2016;A-;#N/A N/A
+DE0007164600 ISIN;SAP SE;Technology;Enterprise Software/Serv;105135.39;105135392174.56; 1.00 ; -   ; 1.00 ;#N/A Field Not Applicable;Common Stock;DE;USD;05.08.2016;A;#N/A N/A
+DE0007164600 ISIN;SAP SE;Technology;Enterprise Software/Serv;105135.39;105135392174.56; 1.00 ; -   ; 1.00 ;#N/A Field Not Applicable;Common Stock;DE;USD;05.08.2016;A;#N/A N/A
+DE0007236101 ISIN;SIEMENS AG-REG;Industrial;Diversified Manufact Op;96642.88;96642875000.00; 1.00 ; -   ; 1.00 ;#N/A Field Not Applicable;Common Stock;DE;USD;05.08.2016;A+;A1
+DE000A1EWWW0 ISIN;ADIDAS AG;Consumer, Cyclical;Athletic Footwear;34144.08;34144081555.20; 1.00 ; 1.00 ; 1.00 ;#N/A Field Not Applicable;Common Stock;DE;USD;05.08.2016;#N/A N/A;#N/A N/A
+DE000A1PHFF7 ISIN;HUGO BOSS AG  -ORD;Consumer, Cyclical;Retail-Apparel/Shoe;7145.60;#N/A N/A; -   ;;;#N/A Field Not Applicable;Common Stock;DE;USD;#N/A Field Not Applicable;#N/A N/A;#N/A N/A
+DE000A1R0VM5 ISIN;DEUTSCHE POST AG;Industrial;Transport-Services; #N/A Field Not Applicable ; 33,775,190,180.00 ;; 1.00 ; 1.00 ;1000000000;EURO-ZONE;DE;EUR;08.08.2016;NR;A3
+DE000BASF111 ISIN;BASF SE;Basic Materials;Chemicals-Diversified;54442.82;#N/A N/A; 1.00 ;;;#N/A Field Not Applicable;Common Stock;DE;USD;#N/A Field Not Applicable;A;#N/A N/A
+DE000CBK1001 ISIN;COMMERZBANK AG;Financial;Commer Banks Non-US;7413.96;7413957193.28; -   ; -   ; -   ;#N/A Field Not Applicable;Common Stock;DE;USD;03.08.2016;BBB+;Baa1
+DE000CBK1001 ISIN;COMMERZBANK AG;Financial;Commer Banks Non-US;7413.96;7413957193.28; -   ; 1.00 ; 1.00 ;#N/A Field Not Applicable;Common Stock;DE;USD;03.08.2016;BBB+;Baa1
+DE000ENAG999 ISIN;E.ON SE;Utilities;Electric-Integrated;20390.19;20390190000.00; -   ; -   ; -   ;#N/A Field Not Applicable;Common Stock;DE;USD;04.08.2016;BBB+;#N/A N/A
+DE000KSAG888 ISIN;K+S AG-REG;Basic Materials;Chemicals-Diversified;4057.68;4057680000.00; -   ; 1.00 ; 1.00 ;#N/A Field Not Applicable;Common Stock;DE;USD;20.07.2016;BBB-   *-;WR
+DE000PAH0038 ISIN;PORSCHE AUTOMOBIL HLDG-PRF;Consumer, Cyclical;Auto-Cars/Light Trucks;15935.50;15914593625.00; -   ; -   ; -   ;#N/A Field Not Applicable;Preference;DE;USD;04.08.2016;#N/A N/A;#N/A N/A
+ES0000101396 ISIN;COMUNIDAD DE MADRID;Government;Municipal-County; #N/A Field Not Applicable ; #N/A Field Not Applicable ;; -   ; -   ;1469380000;EURO-ZONE;ES;EUR;08.08.2016;BBB+;Baa2
+ES0001352477 ISIN;XUNTA DE GALICIA;Government;Municipal-County; #N/A Field Not Applicable ; #N/A Field Not Applicable ;; -   ; -   ;300000000;EURO-ZONE;ES;EUR;08.08.2016;BBB+;Baa2
+FR0000120172 ISIN;CARREFOUR SA;Consumer, Non-cyclical;Food-Retail;18316.01;18316015429.88; -   ; -   ; -   ;#N/A Field Not Applicable;Common Stock;FR;USD;04.08.2016;BBB+;#N/A N/A
+FR0000120172 ISIN;CARREFOUR SA;Consumer, Non-cyclical;Food-Retail;18316.01;18316015429.88; -   ; -   ; -   ;#N/A Field Not Applicable;Common Stock;FR;USD;04.08.2016;BBB+;#N/A N/A
+FR0000120321 ISIN;L'OREAL;Consumer, Non-cyclical;Cosmetics&Toiletries;106478.22;106478217298.20; 1.00 ; 1.00 ; 1.00 ;#N/A Field Not Applicable;Common Stock;FR;USD;05.08.2016;#N/A N/A;#N/A N/A
+FR0000120321 ISIN;L'OREAL;Consumer, Non-cyclical;Cosmetics&Toiletries;106478.22;106478217298.20; 1.00 ; 1.00 ; 1.00 ;#N/A Field Not Applicable;Common Stock;FR;USD;05.08.2016;#N/A N/A;#N/A N/A
+FR0000120404 ISIN;ACCOR SA;Consumer, Cyclical;Hotels&Motels;11603.96;11603956044.20; -   ; -   ; -   ;#N/A Field Not Applicable;Common Stock;FR;USD;28.07.2016;BBB-;#N/A N/A
+FR0000120404 ISIN;ACCOR SA;Consumer, Cyclical;Hotels&Motels;11603.96;11603956044.20; -   ; -   ; -   ;#N/A Field Not Applicable;Common Stock;FR;USD;28.07.2016;BBB-;#N/A N/A
+FR0000120503 ISIN;BOUYGUES SA;Industrial;Building&Construct-Misc;10163.91;10163823766.82; -   ; 1.00 ; 1.00 ;#N/A Field Not Applicable;Common Stock;FR;USD;04.08.2016;BBB;Baa1
+FR0000120537 ISIN;LAFARGE SA;Industrial;Bldg Prod-Cement/Aggreg;18404.77;#N/A N/A; -   ;;;#N/A Field Not Applicable;Common Stock;FR;USD;#N/A Field Not Applicable;BBB;#N/A N/A
+FR0000120537 ISIN;LAFARGE SA;Industrial;Bldg Prod-Cement/Aggreg;18404.77;#N/A N/A; -   ;;;#N/A Field Not Applicable;Common Stock;FR;USD;#N/A Field Not Applicable;BBB;#N/A N/A
+FR0000120578 ISIN;SANOFI;Consumer, Non-cyclical;Medical-Drugs;103547.65;103547654610.85; 1.00 ; -   ; 1.00 ;#N/A Field Not Applicable;Common Stock;FR;USD;05.08.2016;AA;A1
+FR0000120578 ISIN;SANOFI;Consumer, Non-cyclical;Medical-Drugs;103547.65;103547654610.85; 1.00 ; -   ; 1.00 ;#N/A Field Not Applicable;Common Stock;FR;USD;05.08.2016;AA;A1
+FR0000120628 ISIN;AXA SA;Financial;Multi-line Insurance;47430.04;47430036745.91; 1.00 ; 1.00 ; 1.00 ;#N/A Field Not Applicable;Common Stock;FR;USD;05.08.2016;A-;#N/A N/A
+FR0000120628 ISIN;AXA SA;Financial;Multi-line Insurance;47430.04;47430036745.91; 1.00 ; 1.00 ; 1.00 ;#N/A Field Not Applicable;Common Stock;FR;USD;05.08.2016;A-;#N/A N/A
+FR0000121014 ISIN;LVMH MOET HENNESSY LOUIS VUI;Consumer, Cyclical;Textile-Apparel;85770.68;85770677381.05; 1.00 ; 1.00 ; 1.00 ;#N/A Field Not Applicable;Common Stock;FR;USD;05.08.2016;A+;#N/A N/A
+FR0000121667 ISIN;ESSILOR INTERNATIONAL;Consumer, Non-cyclical;Optical Supplies;27262.07;27262066125.00; -   ; 1.00 ; 1.00 ;#N/A Field Not Applicable;Common Stock;FR;USD;05.08.2016;#N/A N/A;A2
+FR0000121667 ISIN;ESSILOR INTERNATIONAL;Consumer, Non-cyclical;Optical Supplies;27262.07;27262066125.00; -   ; -   ; -   ;#N/A Field Not Applicable;Common Stock;FR;USD;05.08.2016;#N/A N/A;A2
+FR0000124711 ISIN;UNIBAIL-RODAMCO SE;Financial;REITS-Diversified;26750.41;#N/A N/A; -   ;;;#N/A Field Not Applicable;REIT;FR;USD;#N/A Field Not Applicable;A;WR
+FR0000125338 ISIN;CAPGEMINI;Technology;Computer Services;16226.55;16226548183.70; -   ; 1.00 ; 1.00 ;#N/A Field Not Applicable;Common Stock;FR;USD;05.08.2016;BBB;#N/A N/A
+FR0000125486 ISIN;VINCI SA;Industrial;Building-Heavy Construct;44744.30;44744305133.57; 1.00 ; -   ; 1.00 ;#N/A Field Not Applicable;Common Stock;FR;USD;03.08.2016;A-;A3
+FR0000130007 ISIN;ALCATEL-LUCENT SA;Communications;Telecommunication Equip;13696.61;13696611750.81; -   ; -   ; -   ;#N/A Field Not Applicable;Common Stock;FR;USD;05.08.2016;BB+;#N/A N/A
+FR0000130577 ISIN;PUBLICIS GROUPE;Communications;Advertising Services;16339.48;16339478687.84; -   ; 1.00 ; 1.00 ;#N/A Field Not Applicable;Common Stock;FR;USD;04.08.2016;BBB+;Baa2
+FR0000130809 ISIN;SOCIETE GENERALE SA;Financial;Diversified Banking Inst;27298.60;27298597952.60; -   ; -   ; -   ;#N/A Field Not Applicable;Common Stock;FR;USD;05.08.2016;A;#N/A N/A
+FR0000130809 ISIN;SOCIETE GENERALE SA;Financial;Diversified Banking Inst;27298.60;27298597952.60; -   ; -   ; -   ;#N/A Field Not Applicable;Common Stock;FR;USD;05.08.2016;A;#N/A N/A
+FR0000131104 ISIN;BNP PARIBAS;Financial;Diversified Banking Inst;60478.37;60478367001.68; 1.00 ; -   ; 1.00 ;#N/A Field Not Applicable;Common Stock;FR;USD;05.08.2016;A;A1
+GB0002374006 ISIN;DIAGEO PLC;Consumer, Non-cyclical;Beverages-Wine/Spirits;71433.59;71433587004.10; 1.00 ; -   ; 1.00 ;#N/A Field Not Applicable;Common Stock;GB;USD;05.08.2016;A-;A3
+GB0002875804 ISIN;BRITISH AMERICAN TOBACCO PLC;Consumer, Non-cyclical;Tobacco;116427.96;116427960807.80; 1.00 ; -   ; 1.00 ;#N/A Field Not Applicable;Common Stock;GB;USD;03.08.2016;A-;A3
+GB0004835483 ISIN;SOUTH AFRICAN BREWERIES;Consumer, Non-cyclical;Brewery;6134.35;#N/A N/A; -   ;;;#N/A Field Not Applicable;Common Stock;GB;USD;#N/A Field Not Applicable;A-;#N/A N/A
+GB0009252882 ISIN;GLAXOSMITHKLINE PLC;Consumer, Non-cyclical;Medical-Drugs;106709.21;106709212903.48; 1.00 ; 1.00 ; 1.00 ;#N/A Field Not Applicable;Common Stock;GB;USD;05.08.2016;A+;A2
+GB0009895292 ISIN;ASTRAZENECA PLC;Consumer, Non-cyclical;Medical-Drugs;85414.27;85414269113.10; 1.00 ; 1.00 ; 1.00 ;#N/A Field Not Applicable;Common Stock;GB;USD;05.08.2016;A-;#N/A N/A
+GB0030913577 ISIN;BT GROUP PLC;Communications;Telephone-Integrated;53609.06;53609061805.20; 1.00 ; 1.00 ; 1.00 ;#N/A Field Not Applicable;Common Stock;GB;USD;05.08.2016;BBB+;#N/A N/A
+GB00B03MLX29 ISIN;ROYAL DUTCH SHELL PLC-A SHS;Energy;Oil Comp-Integrated;203106.64;202979778200.44; 1.00 ; 1.00 ; 1.00 ;#N/A Field Not Applicable;Common Stock;NL;USD;05.08.2016;A;Aa2
+GB00B03MLX29 ISIN;ROYAL DUTCH SHELL PLC-A SHS;Energy;Oil Comp-Integrated;203106.64;202979778200.44; 1.00 ; 1.00 ; 1.00 ;#N/A Field Not Applicable;Common Stock;NL;USD;05.08.2016;A;Aa2
+GB00B1XZS820 ISIN;ANGLO AMERICAN PLC;Basic Materials;Diversified Minerals;14357.00;14356995960.72; -   ; 1.00 ; 1.00 ;#N/A Field Not Applicable;Common Stock;GB;USD;05.08.2016;BB;WR
+HK0000049939 ISIN;CHINA UNICOM HONG KONG LTD;Communications;Cellular Telecom;25383.90;25383905947.98; -   ; 1.00 ; 1.00 ;#N/A Field Not Applicable;Common Stock;HK;USD;27.07.2016;#N/A N/A;#N/A N/A
+HK0000055878 ISIN;CHINA TAIPING INSURANCE HOLD;Financial;Multi-line Insurance;7547.44;#N/A N/A; -   ;;;#N/A Field Not Applicable;Common Stock;HK;USD;#N/A Field Not Applicable;BBB+;#N/A N/A
+HK0000056264 ISIN;CHINA SOUTH CITY HOLDINGS;Financial;Real Estate Oper/Develop;13370.56;13370557738.33; -   ; 1.00 ; 1.00 ;#N/A Field Not Applicable;Common Stock;HK;HKD;08.08.2016;B;#N/A N/A
+HK0000063609 ISIN;SWIRE PROPERTIES LTD;Financial;Real Estate Oper/Develop;15502.50;15502500000.00; -   ; -   ; -   ;#N/A Field Not Applicable;Common Stock;HK;USD;30.06.2016;A-;A2
+HK0000069689 ISIN;AIA GROUP LTD;Financial;Life/Health Insurance;76514.42;76514417392.50; 1.00 ; -   ; 1.00 ;#N/A Field Not Applicable;Common Stock;HK;USD;05.08.2016;A;#N/A N/A
+HK0000069689 ISIN;AIA GROUP LTD;Financial;Life/Health Insurance;76514.42;76514417392.50; 1.00 ; 1.00 ; 1.00 ;#N/A Field Not Applicable;Common Stock;HK;USD;05.08.2016;A;#N/A N/A
+HK0000083920 ISIN;SUN ART RETAIL GROUP LTD;Consumer, Cyclical;Retail-Hypermarkets;6124.49;#N/A N/A; -   ;;;#N/A Field Not Applicable;Common Stock;HK;USD;#N/A Field Not Applicable;#N/A N/A;#N/A N/A
+HK0002007356 ISIN;CLP HOLDINGS LTD;Utilities;Electric-Integrated;25668.74;25668737791.20; -   ; -   ; -   ;#N/A Field Not Applicable;Common Stock;HK;USD;03.08.2016;A-;#N/A N/A
+HK0002007356 ISIN;CLP HOLDINGS LTD;Utilities;Electric-Integrated;25668.74;25668737791.20; -   ; 1.00 ; 1.00 ;#N/A Field Not Applicable;Common Stock;HK;USD;03.08.2016;A-;#N/A N/A
+HK0004000045 ISIN;WHARF HOLDINGS LTD;Diversified;Diversified Operations;20368.50;20368503637.44; -   ; 1.00 ; 1.00 ;#N/A Field Not Applicable;Common Stock;HK;USD;05.08.2016;NR;#N/A N/A
+HK0004000045 ISIN;WHARF HOLDINGS LTD;Diversified;Diversified Operations;20368.50;20368503637.44; -   ; 1.00 ; 1.00 ;#N/A Field Not Applicable;Common Stock;HK;USD;05.08.2016;NR;#N/A N/A
+HK0006000050 ISIN;POWER ASSETS HOLDINGS LTD;Utilities;Electric-Integrated;20915.76;20915764209.20; -   ; -   ; -   ;#N/A Field Not Applicable;Common Stock;HK;USD;01.08.2016;A-;#N/A N/A
+HK0006000050 ISIN;POWER ASSETS HOLDINGS LTD;Utilities;Electric-Integrated;20915.76;20915764209.20; -   ; -   ; -   ;#N/A Field Not Applicable;Common Stock;HK;USD;01.08.2016;A-;#N/A N/A
+HK0008011667 ISIN;PCCW LTD;Communications;Telecom Services;5665.94;5665941986.73; -   ; -   ; -   ;#N/A Field Not Applicable;Common Stock;HK;USD;05.08.2016;#N/A N/A;#N/A N/A
+HK0011000095 ISIN;HANG SENG BANK LTD;Financial;Commer Banks Non-US;32979.29;32979287196.00; -   ; -   ; -   ;#N/A Field Not Applicable;Common Stock;HK;USD;04.08.2016;AA-;#N/A N/A
+HK0011000095 ISIN;HANG SENG BANK LTD;Financial;Commer Banks Non-US;32979.29;32979287196.00; -   ; -   ; -   ;#N/A Field Not Applicable;Common Stock;HK;USD;04.08.2016;AA-;#N/A N/A
+HK0016000132 ISIN;SUN HUNG KAI PROPERTIES;Financial;Real Estate Oper/Develop;41805.64;41805637836.56; 1.00 ; -   ; 1.00 ;#N/A Field Not Applicable;Common Stock;HK;USD;01.08.2016;A+;#N/A N/A
+HK0016000132 ISIN;SUN HUNG KAI PROPERTIES;Financial;Real Estate Oper/Develop;41805.64;41805637836.56; 1.00 ; -   ; 1.00 ;#N/A Field Not Applicable;Common Stock;HK;USD;01.08.2016;A+;#N/A N/A
+HK0017000149 ISIN;NEW WORLD DEVELOPMENT;Financial;Real Estate Oper/Develop;10047.74;10047736868.16; -   ; -   ; -   ;#N/A Field Not Applicable;Common Stock;HK;USD;18.07.2016;#N/A N/A;#N/A N/A
+HK0017000149 ISIN;NEW WORLD DEVELOPMENT;Financial;Real Estate Oper/Develop;10047.74;10047736868.16; -   ; -   ; -   ;#N/A Field Not Applicable;Common Stock;HK;USD;18.07.2016;#N/A N/A;#N/A N/A
+HK0019000162 ISIN;SWIRE PACIFIC LTD - CL A;Diversified;Diversified Operations;16943.06;16943061875.05; -   ;;;#N/A Field Not Applicable;Common Stock;HK;USD;#N/A Field Not Applicable;A-;#N/A N/A
+HK0019000162 ISIN;SWIRE PACIFIC LTD - CL A;Diversified;Diversified Operations;16943.06;16943061875.05; -   ;;;#N/A Field Not Applicable;Common Stock;HK;USD;#N/A Field Not Applicable;A-;#N/A N/A
+HK0023000190 ISIN;BANK OF EAST ASIA LTD;Financial;Commer Banks Non-US;11054.59;11054592967.96; -   ; -   ; -   ;#N/A Field Not Applicable;Common Stock;HK;USD;29.07.2016;A;#N/A N/A
+HK0066009694 ISIN;MTR CORP;Industrial;Transport-Rail;27677.96;#N/A N/A; -   ;;;#N/A Field Not Applicable;Common Stock;HK;USD;#N/A Field Not Applicable;AAA;Aa1
+HK0083000502 ISIN;SINO LAND CO;Financial;Real Estate Oper/Develop;8865.42;#N/A N/A; -   ;;;#N/A Field Not Applicable;Common Stock;HK;USD;#N/A Field Not Applicable;#N/A N/A;#N/A N/A
+HK0083000502 ISIN;SINO LAND CO;Financial;Real Estate Oper/Develop;8865.42;#N/A N/A; -   ;;;#N/A Field Not Applicable;Common Stock;HK;USD;#N/A Field Not Applicable;#N/A N/A;#N/A N/A
+HK0101000591 ISIN;HANG LUNG PROPERTIES LTD;Financial;Real Estate Oper/Develop;9444.07;9444068907.00; -   ; -   ; -   ;#N/A Field Not Applicable;Common Stock;HK;USD;26.07.2016;#N/A N/A;#N/A N/A
+HK0101000591 ISIN;HANG LUNG PROPERTIES LTD;Financial;Real Estate Oper/Develop;9444.07;9444068907.00; -   ; 1.00 ; 1.00 ;#N/A Field Not Applicable;Common Stock;HK;USD;26.07.2016;#N/A N/A;#N/A N/A
+HK0165000859 ISIN;CHINA EVERBRIGHT LTD;Financial;Diversified Finan Serv;3353.65;3353654886.88; -   ; 1.00 ; 1.00 ;#N/A Field Not Applicable;Common Stock;HK;USD;28.07.2016;#N/A N/A;#N/A N/A
+HK0285041858 ISIN;BYD ELECTRONIC INTL CO LTD;Communications;Telecommunication Equip;1622.31;1622307240.00; -   ; 1.00 ; 1.00 ;#N/A Field Not Applicable;Common Stock;CN;USD;04.08.2016;#N/A N/A;#N/A N/A
+HK0291001490 ISIN;CHINA RESOURCES BEER HOLDIN;Consumer, Non-cyclical;Brewery;6488.35;6488353810.00; -   ; -   ; -   ;#N/A Field Not Applicable;Common Stock;HK;USD;25.07.2016;#N/A N/A;#N/A N/A
+HK0291001490 ISIN;CHINA RESOURCES BEER HOLDIN;Consumer, Non-cyclical;Brewery;6488.35;6488353810.00; -   ; -   ; -   ;#N/A Field Not Applicable;Common Stock;HK;USD;25.07.2016;#N/A N/A;#N/A N/A
+HK0388045442 ISIN;HONG KONG EXCHANGES & CLEAR;Financial;Finance-Other Services;29546.28;29546281423.59; -   ; -   ; -   ;#N/A Field Not Applicable;Common Stock;HK;USD;04.08.2016;#N/A N/A;#N/A N/A
+HK0388045442 ISIN;HONG KONG EXCHANGES & CLEAR;Financial;Finance-Other Services;29546.28;29546281423.59; -   ; -   ; -   ;#N/A Field Not Applicable;Common Stock;HK;USD;04.08.2016;#N/A N/A;#N/A N/A
+HK0656038673 ISIN;FOSUN INTERNATIONAL LTD;Basic Materials;Steel-Producers;11230.28;11230276387.78; -   ; -   ; -   ;#N/A Field Not Applicable;Common Stock;CN;USD;05.08.2016;BB;#N/A N/A
+HK0669013440 ISIN;TECHTRONIC INDUSTRIES CO LTD;Industrial;Mach Tools&Rel Products;7410.20;7410196041.64; -   ; -   ; -   ;#N/A Field Not Applicable;Common Stock;HK;USD;29.06.2016;#N/A N/A;#N/A N/A
+HK0688002218 ISIN;CHINA OVERSEAS LAND & INVEST;Financial;Real Estate Oper/Develop;32046.89;32046889488.25; -   ; -   ; -   ;#N/A Field Not Applicable;Common Stock;HK;USD;12.07.2016;BBB+;Baa1
+HK0823032773 ISIN;LINK REIT;Financial;REITS-Shopping Centers;16251.98;16251977518.24; -   ; -   ; -   ;#N/A Field Not Applicable;REIT;HK;USD;05.08.2016;A;A2
+HK0941009539 ISIN;CHINA MOBILE LTD;Communications;Cellular Telecom;253691.24;253691233093.83; 1.00 ; -   ; 1.00 ;#N/A Field Not Applicable;Common Stock;HK;USD;05.08.2016;AA-;#N/A N/A
+HK0992009065 ISIN;LENOVO GROUP LTD;Technology;Computers;7315.05;7315049135.75; -   ; -   ; -   ;#N/A Field Not Applicable;Common Stock;CN;USD;05.08.2016;#N/A N/A;#N/A N/A
+HK0992009065 ISIN;LENOVO GROUP LTD;Technology;Computers;7315.05;7315049135.75; -   ; -   ; -   ;#N/A Field Not Applicable;Common Stock;CN;USD;05.08.2016;#N/A N/A;#N/A N/A
+HK1111036765 ISIN;CHONG HING BANK LTD;Financial;Commer Banks Non-US;696.00;#N/A N/A; -   ;;;#N/A Field Not Applicable;Common Stock;HK;USD;#N/A Field Not Applicable;#N/A N/A;#N/A N/A
+HK2388011192 ISIN;BOC HONG KONG HOLDINGS LTD;Financial;Commer Banks Non-US;34678.72;34678719272.48; 1.00 ; 1.00 ; 1.00 ;#N/A Field Not Applicable;Common Stock;HK;USD;29.07.2016;#N/A N/A;#N/A N/A
+HK2388011192 ISIN;BOC HONG KONG HOLDINGS LTD;Financial;Commer Banks Non-US;34678.72;34678719272.48; 1.00 ; -   ; 1.00 ;#N/A Field Not Applicable;Common Stock;HK;USD;29.07.2016;#N/A N/A;#N/A N/A
+HK3377040226 ISIN;SINO-OCEAN GROUP HOLDING LTD;Financial;Real Estate Oper/Develop;3035.61;3035607381.43; -   ; -   ; -   ;#N/A Field Not Applicable;Common Stock;CN;USD;23.06.2016;BBB-;#N/A N/A
+IE00B56GVS15 ISIN;ALKERMES PLC;Consumer, Non-cyclical;Medical-Drugs;7364.14;7364140198.77; -   ; 1.00 ; 1.00 ;#N/A Field Not Applicable;Common Stock;IE;USD;05.08.2016;BB-;#N/A N/A
+IE00BD1NQJ95 ISIN;ACTAVIS PLC;Consumer, Non-cyclical;Medical-Drugs; #N/A N/A ; #N/A N/A ;;;;#N/A Field Not Applicable;Common Stock;US;USD;#N/A Field Not Applicable;BBB-   *+;#N/A N/A
+IE00BD1NQJ95 ISIN;ACTAVIS PLC;Consumer, Non-cyclical;Medical-Drugs; #N/A N/A ; #N/A N/A ;;;;#N/A Field Not Applicable;Common Stock;US;USD;#N/A Field Not Applicable;BBB-   *+;#N/A N/A
+IE00BLNN3691 ISIN;WEATHERFORD INTERNATIONAL PL;Energy;Oil-Field Services;4830.26;4830257107.83; -   ; -   ; -   ;#N/A Field Not Applicable;Common Stock;CH;USD;05.08.2016;BB-;#N/A N/A
+IE00BQRQXQ92 ISIN;TYCO INTERNATIONAL PLC;Industrial;Electronic Secur Devices;19316.49;19316488312.44; -   ; -   ; -   ;#N/A Field Not Applicable;Common Stock;US;USD;05.08.2016;A-     *-;WR
+IE00BQRQXQ92 ISIN;TYCO INTERNATIONAL PLC;Industrial;Electronic Secur Devices;19316.49;19316488312.44; -   ; 1.00 ; 1.00 ;#N/A Field Not Applicable;Common Stock;US;USD;05.08.2016;A-     *-;WR
+IL0011214744 ISIN;ISRAEL LAND DEVELOPMENT CO E;Energy;Oil Comp-Explor&Prodtn;28.80;28803486.65; -   ; 1.00 ; 1.00 ;#N/A Field Not Applicable;Common Stock;IL;ILs;08.08.2016;#N/A N/A;#N/A N/A
+IT0000062072 ISIN;ASSICURAZIONI GENERALI;Financial;Multi-line Insurance;19576.54;19576538401.90; -   ; -   ; -   ;#N/A Field Not Applicable;Common Stock;IT;USD;04.08.2016;NR;#N/A N/A
+IT0003261069 ISIN;ASTALDI SPA;Industrial;Building-Heavy Construct;721.45;#N/A N/A; -   ;;;#N/A Field Not Applicable;Common Stock;IT;USD;#N/A Field Not Applicable;B      *-;#N/A N/A
+JE00B55Q3P39 ISIN;GENEL ENERGY PLC;Energy;Oil Comp-Explor&Prodtn;358.28;358278249.19; -   ; -   ; -   ;#N/A Field Not Applicable;Common Stock;GB;USD;04.08.2016;#N/A N/A;#N/A N/A
+JE00B5WLXH36 ISIN;POLYUS GOLD INTERNATIONAL LT;Basic Materials;Gold Mining;8975.16;#N/A N/A; -   ;;;#N/A Field Not Applicable;Common Stock;GB;USD;#N/A Field Not Applicable;BB-;#N/A N/A
+JP3190000004 ISIN;OBAYASHI CORP;Industrial;Building&Construct-Misc;7236.74;7236741749.38; -   ; -   ; -   ;#N/A Field Not Applicable;Common Stock;JP;USD;15.07.2016;NR;#N/A N/A
+JP3435000009 ISIN;SONY CORP;Consumer, Cyclical;Audio/Video Products;41300.25;41300249826.60; 1.00 ; 1.00 ; 1.00 ;#N/A Field Not Applicable;Common Stock;JP;USD;05.08.2016;BBB-;Ba1
+JP3436100006 ISIN;SOFTBANK GROUP CORP;Communications;Telephone-Integrated;68749.81;68749812499.90; 1.00 ; -   ; 1.00 ;#N/A Field Not Applicable;Common Stock;JP;USD;05.08.2016;BB+;WR
+JP3436120004 ISIN;SBI HOLDINGS INC;Communications;Internet Financial Svcs;2369.13;2369126578.55; -   ; 1.00 ; 1.00 ;#N/A Field Not Applicable;Common Stock;JP;USD;28.07.2016;#N/A N/A;#N/A N/A
+JP3442850008 ISIN;TAISHO PHARMACEUTICAL HOLDIN;Consumer, Non-cyclical;Medical-Drugs;9464.66;9464663565.00; -   ; -   ; -   ;#N/A Field Not Applicable;Common Stock;JP;USD;20.07.2016;#N/A N/A;#N/A N/A
+JP3686800008 ISIN;NIPPON SHEET GLASS CO LTD;Industrial;Bldg Prod-Doors&Windows;722.84;#N/A N/A; -   ;;;#N/A Field Not Applicable;Common Stock;JP;USD;#N/A Field Not Applicable;NR;#N/A N/A
+JP3802300008 ISIN;FAST RETAILING CO LTD;Consumer, Cyclical;Retail-Apparel/Shoe;37973.31;37973308111.44; 1.00 ; 1.00 ; 1.00 ;#N/A Field Not Applicable;Common Stock;JP;USD;05.08.2016;A;#N/A N/A
+JP3898400001 ISIN;MITSUBISHI CORP;Consumer, Cyclical;Import/Export;30227.36;30227360937.51; -   ; -   ; -   ;#N/A Field Not Applicable;Common Stock;JP;USD;04.08.2016;A;A2
+JP3902900004 ISIN;MITSUBISHI UFJ FINANCIAL GRO;Financial;Diversified Banking Inst;68931.47;68931473834.30; 1.00 ; -   ; 1.00 ;#N/A Field Not Applicable;Common Stock;JP;USD;03.08.2016;A;A1
+KYG040111059 ISIN;ANTA SPORTS PRODUCTS LTD;Consumer, Cyclical;Retail-Apparel/Shoe;5102.62;5102617524.00; -   ; 1.00 ; 1.00 ;#N/A Field Not Applicable;Common Stock;CN;USD;13.07.2016;#N/A N/A;#N/A N/A
+KYG0535Q1331 ISIN;ASM PACIFIC TECHNOLOGY;Technology;Semiconductor Equipment;2984.87;#N/A N/A; -   ;;;#N/A Field Not Applicable;Common Stock;HK;USD;#N/A Field Not Applicable;BB+;#N/A N/A
+KYG097021045 ISIN;BELLE INTERNATIONAL HOLDINGS;Consumer, Cyclical;Retail-Apparel/Shoe;5650.94;5650936110.00; -   ; -   ; -   ;#N/A Field Not Applicable;Common Stock;CN;USD;02.08.2016;#N/A N/A;#N/A N/A
+KYG112591014 ISIN;BIOSTIME INTERNATIONAL HOLDI;Consumer, Non-cyclical;Consumer Products-Misc;2080.29;2080287877.80; -   ; 1.00 ; 1.00 ;#N/A Field Not Applicable;Common Stock;CN;USD;30.06.2016;BB;#N/A N/A
+KYG1179M1078 ISIN;BLOOMAGE BIOTECHNOLOGY;Basic Materials;Chemicals-Specialty;4562.49;4562489408.40; -   ; -   ; -   ;#N/A Field Not Applicable;Common Stock;CN;HKD;08.08.2016;#N/A N/A;#N/A N/A
+KYG121611084 ISIN;BOER POWER HOLDINGS LTD;Industrial;Power Conv/Supply Equip; #N/A N/A ; #N/A N/A ;;;;#N/A Field Not Applicable;Common Stock;CN;USD;#N/A Field Not Applicable;#N/A N/A;#N/A N/A
+KYG127751058 ISIN;BOYAA INTERACTIVE INTERNATIO;Technology;Entertainment Software;252.48;252481335.81; -   ; -   ; -   ;#N/A Field Not Applicable;Common Stock;CN;USD;03.08.2016;#N/A N/A;#N/A N/A
+KYG190211071 ISIN;CAR INC;Consumer, Non-cyclical;Rental Auto/Equipment;4507.09;#N/A N/A; -   ;;;#N/A Field Not Applicable;Common Stock;CN;USD;#N/A Field Not Applicable;BB+;#N/A N/A
+KYG2103F1019 ISIN;CHEUNG KONG PROPERTY HOLDING;Financial;Real Estate Oper/Develop;27181.52;27181518063.20; -   ; -   ; -   ;#N/A Field Not Applicable;Common Stock;HK;USD;04.08.2016;A-;#N/A N/A
+KYG211071009 ISIN;CHINA CORD BLOOD CORP;Consumer, Non-cyclical;Medical Labs&Testing Srv;425.24;425242046.88; -   ; 1.00 ; 1.00 ;#N/A Field Not Applicable;Common Stock;HK;USD;05.08.2016;#N/A N/A;#N/A N/A
+KYG211081248 ISIN;CHINA MEDICAL SYSTEM HOLDING;Consumer, Non-cyclical;Medical Products;3556.76;#N/A N/A; -   ;;;#N/A Field Not Applicable;Common Stock;CN;USD;#N/A Field Not Applicable;#N/A N/A;#N/A N/A
+KYG2140A1076 ISIN;CIFI HOLDINGS GROUP CO LTD;Financial;Real Estate Oper/Develop;14423.83;14423833215.25; -   ; 1.00 ; 1.00 ;#N/A Field Not Applicable;Common Stock;CN;HKD;08.08.2016;BB-;#N/A N/A
+KYG217651051 ISIN;CK HUTCHISON HOLDINGS LTD;Diversified;Diversified Operations;45202.24;45202238784.90; 1.00 ; -   ; 1.00 ;#N/A Field Not Applicable;Common Stock;HK;USD;04.08.2016;A-;A3
+KYG217651051 ISIN;CK HUTCHISON HOLDINGS LTD;Diversified;Diversified Operations;45202.24;45202238784.90; 1.00 ; -   ; 1.00 ;#N/A Field Not Applicable;Common Stock;HK;USD;04.08.2016;A-;A3
+KYG2198S1093 ISIN;CIMC ENRIC HOLDINGS LTD;Energy;Oil Field Mach&Equip;1354.40;#N/A N/A; -   ;;;#N/A Field Not Applicable;Common Stock;HK;USD;#N/A Field Not Applicable;#N/A N/A;#N/A N/A
+KYG2418K1004 ISIN;COOLPAD GROUP LTD;Communications;Wireless Equipment;753.87;753868122.00; -   ; -   ; -   ;#N/A Field Not Applicable;Common Stock;CN;USD;04.08.2016;#N/A N/A;#N/A N/A
+KYG245241032 ISIN;COUNTRY GARDEN HOLDINGS CO;Financial;Real Estate Oper/Develop;8817.71;8817709348.45; -   ; -   ; -   ;#N/A Field Not Applicable;Common Stock;CN;USD;19.07.2016;BB;#N/A N/A
+KYG368441195 ISIN;FUFENG GROUP LTD;Basic Materials;Chemicals-Specialty;6188.65;6188652282.03; -   ; -   ; -   ;#N/A Field Not Applicable;Common Stock;CN;HKD;08.08.2016;BB+;#N/A N/A
+KYG3958R1092 ISIN;GOLDEN EAGLE RETAIL GROUP;Consumer, Cyclical;Retail-Regnl Dept Store;1876.69;#N/A N/A; -   ;;;#N/A Field Not Applicable;Common Stock;CN;USD;#N/A Field Not Applicable;BB-;WR
+KYG4402L1510 ISIN;HENGAN INTL GROUP CO LTD;Consumer, Non-cyclical;Feminine Health Care Prd;10156.67;10156668548.43; -   ; -   ; -   ;#N/A Field Not Applicable;Common Stock;CN;USD;05.08.2016;#N/A N/A;#N/A N/A
+KYG4587S1049 ISIN;GREENLAND HONG KONG HOLDINGS;Financial;Real Estate Oper/Develop;2275.70;#N/A N/A; -   ;;;#N/A Field Not Applicable;Common Stock;CN;USD;#N/A Field Not Applicable;BB-;#N/A N/A
+KYG459951003 ISIN;HOPEWELL HIGHWAY INFRASTRUCT;Industrial;Building-Heavy Construct;1543.93;1543926831.78; -   ; -   ; -   ;#N/A Field Not Applicable;Common Stock;HK;USD;03.08.2016;#N/A N/A;#N/A N/A
+KYG525621408 ISIN;KINGBOARD CHEMICAL HOLDINGS;Basic Materials;Chemicals-Other;2051.20;#N/A N/A; -   ;;;#N/A Field Not Applicable;Common Stock;HK;USD;#N/A Field Not Applicable;NR;#N/A N/A
+KYG5264Y1089 ISIN;KINGSOFT CORP LTD;Technology;Entertainment Software;2318.83;2318828760.86; -   ; -   ; -   ;#N/A Field Not Applicable;Common Stock;CN;USD;13.07.2016;#N/A N/A;#N/A N/A
+KYG5427W1309 ISIN;LEE & MAN PAPER MANUFACTURIN;Industrial;Containers-Paper/Plastic;3417.45;3417449250.00; -   ; 1.00 ; 1.00 ;#N/A Field Not Applicable;Common Stock;HK;USD;12.07.2016;#N/A N/A;#N/A N/A
+KYG5636C1078 ISIN;LONKING HOLDINGS LTD;Industrial;Machinery-Constr&Mining;662.88;#N/A N/A; -   ;;;#N/A Field Not Applicable;Common Stock;CN;USD;#N/A Field Not Applicable;NR;#N/A N/A
+KYG607441022 ISIN;MGM CHINA HOLDINGS LTD;Consumer, Cyclical;Casino Hotels;5358.00;5358000001.41; -   ; 1.00 ; 1.00 ;#N/A Field Not Applicable;Common Stock;MO;USD;03.08.2016;#N/A N/A;#N/A N/A
+KYG6145U1094 ISIN;MINTH GROUP LTD;Consumer, Cyclical;Auto/Trk Prts&Equip-Orig;2209.43;#N/A N/A; -   ;;;#N/A Field Not Applicable;Common Stock;CN;USD;#N/A Field Not Applicable;#N/A N/A;#N/A N/A
+KYG686121032 ISIN;PACIFIC TEXTILES HOLDINGS;Consumer, Cyclical;Textile-Products; #N/A N/A ; #N/A N/A ;;;;#N/A Field Not Applicable;Common Stock;HK;USD;#N/A Field Not Applicable;#N/A N/A;#N/A N/A
+KYG869731078 ISIN;TCC INTL HLDGS LTD;Industrial;Bldg Prod-Cement/Aggreg;322.76;#N/A N/A; -   ;;;#N/A Field Not Applicable;Common Stock;HK;USD;#N/A Field Not Applicable;#N/A N/A;#N/A N/A
+KYG870161463 ISIN;TCL COMMUNICATION TECH HLDGS;Communications;Telecommunication Equip;1150.32;1150318702.80; -   ; -   ; -   ;#N/A Field Not Applicable;Common Stock;CN;USD;30.06.2016;#N/A N/A;#N/A N/A
+KYG875721634 ISIN;TENCENT HOLDINGS LTD;Communications;Internet Applic Sftwr;225960.97;225960961201.36; 1.00 ; 1.00 ; 1.00 ;#N/A Field Not Applicable;Common Stock;CN;USD;05.08.2016;A;A2
+KYG875721634 ISIN;TENCENT HOLDINGS LTD;Communications;Internet Applic Sftwr;225960.97;225960961201.36; 1.00 ; 1.00 ; 1.00 ;#N/A Field Not Applicable;Common Stock;CN;USD;05.08.2016;A;A2
+KYG8813K1085 ISIN;THE UNITED LABORATORIES INTE;Consumer, Non-cyclical;Medical-Drugs;600.32;#N/A N/A; -   ;;;#N/A Field Not Applicable;Common Stock;HK;USD;#N/A Field Not Applicable;#N/A N/A;#N/A N/A
+KYG884931042 ISIN;361 DEGREES INTERNATIONAL;Consumer, Cyclical;Retail-Apparel/Shoe;682.31;682308660.00; -   ; -   ; -   ;#N/A Field Not Applicable;Common Stock;CN;USD;05.08.2016;BB;#N/A N/A
+KYG8878S1030 ISIN;TINGYI (CAYMAN ISLN) HLDG CO;Consumer, Non-cyclical;Food-Flour&Grain;4986.56;4986555510.40; -   ; 1.00 ; 1.00 ;#N/A Field Not Applicable;Common Stock;CN;USD;02.08.2016;BBB+;Baa1
+KYG8878S1030 ISIN;TINGYI (CAYMAN ISLN) HLDG CO;Consumer, Non-cyclical;Food-Flour&Grain;4986.56;4986555510.40; -   ; 1.00 ; 1.00 ;#N/A Field Not Applicable;Common Stock;CN;USD;02.08.2016;BBB+;Baa1
+KYG9222R1065 ISIN;UNI-PRESIDENT CHINA HOLDINGS;Consumer, Non-cyclical;Food-Misc/Diversified;3239.50;#N/A N/A; -   ;;;#N/A Field Not Applicable;Common Stock;CN;USD;#N/A Field Not Applicable;#N/A N/A;#N/A N/A
+KYG960071028 ISIN;WH GROUP LTD;Consumer, Non-cyclical;Food-Meat Products;10986.32;10986315833.25; -   ; -   ; -   ;#N/A Field Not Applicable;Common Stock;HK;USD;19.07.2016;#N/A N/A;#N/A N/A
+KYG981001038 ISIN;WUZHOU INTERNATIONAL HOLDING;Financial;Real Estate Oper/Develop;3892.40;3892402732.92; -   ; -   ; -   ;#N/A Field Not Applicable;Common Stock;CN;HKD;08.08.2016;#N/A N/A;#N/A N/A
+KYG981491007 ISIN;WYNN MACAU LTD;Consumer, Cyclical;Casino Hotels;8180.87;8180873665.00; -   ; -   ; -   ;#N/A Field Not Applicable;Common Stock;MO;USD;05.08.2016;BB;#N/A N/A
+LU0323134006 ISIN;ARCELORMITTAL;Basic Materials;Steel-Producers;19467.27;19467267320.15; -   ; 1.00 ; 1.00 ;#N/A Field Not Applicable;Common Stock;LU;USD;05.08.2016;BB;WR
+MX01AC100006 ISIN;ARCA CONTINENTAL SAB DE CV;Consumer, Non-cyclical;Beverages-Non-alcoholic;11393.53;11393527960.90; -   ; -   ; -   ;#N/A Field Not Applicable;Common Stock;MX;USD;25.07.2016;#N/A N/A;A2
+MX01AX040009 ISIN;AXTEL SAB DE CV - CPO;Communications;Telephone-Integrated;606.44;#N/A N/A; -   ;;;#N/A Field Not Applicable;Unit;MX;USD;#N/A Field Not Applicable;BB;WR
+MX01GA000004 ISIN;GRUPO AEROPORT DEL PACIFIC-B;Industrial;Airport Develop/Maint;5561.13;5561724830.22; -   ; -   ; -   ;#N/A Field Not Applicable;Common Stock;MX;USD;29.07.2016;#N/A N/A;Baa1
+MX01LA040003 ISIN;GRUPO LALA SAB DE CV;Consumer, Non-cyclical;Food-Dairy Products;5818.44;#N/A N/A; -   ;;;#N/A Field Not Applicable;Common Stock;MX;USD;#N/A Field Not Applicable;#N/A N/A;#N/A N/A
+MX01OH010006 ISIN;OHL MEXICO SAB DE CV;Consumer, Non-cyclical;Public Thoroughfares;2453.12;2453120777.96; -   ; -   ; -   ;#N/A Field Not Applicable;Common Stock;MX;USD;04.08.2016;#N/A N/A;#N/A N/A
+MX01PI000005 ISIN;PROMOTORA Y OPERADORA DE INF;Industrial;Building-Heavy Construct;5104.90;5105449332.02; -   ; 1.00 ; 1.00 ;#N/A Field Not Applicable;Common Stock;MX;USD;04.08.2016;NR;WR
+MXCFFU000001 ISIN;FIBRA UNO ADMINISTRACION SA;Financial;REITS-Diversified;6552.28;6552278397.76; -   ; -   ; -   ;#N/A Field Not Applicable;REIT;MX;USD;05.08.2016;#N/A N/A;#N/A N/A
+MXP000511016 ISIN;ALFA S.A.B.-A;Diversified;Diversified Operations;8141.60;8141595000.00; -   ; 1.00 ; 1.00 ;#N/A Field Not Applicable;Common Stock;MX;USD;03.08.2016;BBB;#N/A N/A
+MXP001661018 ISIN;GRUPO AEROPORT DEL SURESTE-B;Industrial;Airport Develop/Maint;4658.54;4659035496.45; -   ; -   ; -   ;#N/A Field Not Applicable;Common Stock;MX;USD;27.07.2016;#N/A N/A;#N/A N/A
+MXP001691213 ISIN;AMERICA MOVIL SAB DE C-SER L;Communications;Cellular Telecom;38052.04;38056120585.24; 1.00 ; -   ; 1.00 ;#N/A Field Not Applicable;Common Stock;MX;USD;28.07.2016;A-;WR
+MXP200821413 ISIN;CONTROLADORA COML MEXIC-UBC;Consumer, Non-cyclical;Food-Retail;1833.92;1834115230.48; -   ;;;#N/A Field Not Applicable;Unit;MX;USD;#N/A Field Not Applicable;NR;#N/A N/A
+MXP225611567 ISIN;CEMEX SAB-CPO;Industrial;Bldg Prod-Cement/Aggreg;10783.76;10783763181.73; -   ; -   ; -   ;#N/A Field Not Applicable;Unit;MX;USD;05.08.2016;B+;WR
+MXP2861W1067 ISIN;COCA-COLA FEMSA SAB-SER L;Consumer, Non-cyclical;Beverages-Non-alcoholic;15520.11;15521771459.38; -   ; -   ; -   ;#N/A Field Not Applicable;Common Stock;MX;USD;14.07.2016;A-;WR
+MXP320321310 ISIN;FOMENTO ECONOMICO MEXICA-UBD;Consumer, Non-cyclical;Beverages-Non-alcoholic;30703.70;30706996612.45; -   ; -   ; -   ;#N/A Field Not Applicable;Unit;MX;USD;13.07.2016;A-;#N/A N/A
+MXP369181377 ISIN;EL PUERTO DE LIVERPOOL-C1;Consumer, Cyclical;Retail-Major Dept Store;13328.02;13329453182.00; -   ; -   ; -   ;#N/A Field Not Applicable;Common Stock;MX;USD;26.07.2016;BBB+;#N/A N/A
+MXP370641013 ISIN;GRUPO FINANCIERO INBURSA-O;Financial;Commer Banks Non-US;11219.25;11219252962.86; -   ; -   ; -   ;#N/A Field Not Applicable;Common Stock;MX;USD;20.07.2016;#N/A N/A;#N/A N/A
+MXP370711014 ISIN;GRUPO FINANCIERO BANORTE-O;Financial;Commer Banks Non-US;15255.51;15255512596.50; -   ; -   ; -   ;#N/A Field Not Applicable;Common Stock;MX;USD;04.08.2016;#N/A N/A;#N/A N/A
+MXP370841019 ISIN;GRUPO MEXICO SAB DE CV-SER B;Basic Materials;Non-Ferrous Metals;19696.05;19696050000.00; -   ; -   ; -   ;#N/A Field Not Applicable;Common Stock;MX;USD;04.08.2016;BBB;#N/A N/A
+MXP371491046 ISIN;EMPRESAS ICA S.A.B;Industrial;Building-Heavy Construct;65.78;#N/A N/A; -   ;;;#N/A Field Not Applicable;Common Stock;MX;USD;#N/A Field Not Applicable;D;WR
+MXP461181085 ISIN;GRUPO CARSO SAB DE CV-SER A1;Diversified;Diversified Operations;9145.26;9145261949.07; -   ; -   ; -   ;#N/A Field Not Applicable;Common Stock;MX;USD;01.08.2016;#N/A N/A;#N/A N/A
+MXP4948K1056 ISIN;GRUMA S.A.B.-B;Consumer, Non-cyclical;Food-Flour&Grain;6054.16;6054159615.21; -   ; -   ; -   ;#N/A Field Not Applicable;Common Stock;MX;USD;03.08.2016;BBB;WR
+MXP495211262 ISIN;GRUPO BIMBO SAB- SERIES A;Consumer, Non-cyclical;Food-Baking;13665.15;13665147600.00; -   ; -   ; -   ;#N/A Field Not Applicable;Common Stock;MX;USD;03.08.2016;BBB;#N/A N/A
+MXP4987V1378 ISIN;GRUPO TELEVISA SAB-SER CPO;Communications;Broadcast Serv/Program;15476.48;#N/A N/A; -   ;;;#N/A Field Not Applicable;Unit;MX;USD;#N/A Field Not Applicable;BBB+;Baa1
+MXP554091415 ISIN;INDUSTRIAS PENOLES SAB DE CV;Basic Materials;Non-Ferrous Metals;10393.08;10393076589.83; -   ; -   ; -   ;#N/A Field Not Applicable;Common Stock;MX;USD;05.08.2016;BBB;Baa2 *-
+MXP606941179 ISIN;KIMBERLY-CLARK DE MEXICO-A;Consumer, Non-cyclical;Consumer Products-Misc;7253.53;7254303149.07; -   ; -   ; -   ;#N/A Field Not Applicable;Common Stock;MX;USD;02.08.2016;A-;#N/A N/A
+NL0000009082 ISIN;KONINKLIJKE KPN NV;Communications;Telephone-Integrated;14518.87;14518865857.60; -   ; -   ; -   ;#N/A Field Not Applicable;Common Stock;NL;USD;20.07.2016;BBB-;#N/A N/A
+NL0000009082 ISIN;KONINKLIJKE KPN NV;Communications;Telephone-Integrated;14518.87;14518865857.60; -   ; 1.00 ; 1.00 ;#N/A Field Not Applicable;Common Stock;NL;USD;20.07.2016;BBB-;#N/A N/A
+NL0000009132 ISIN;AKZO NOBEL;Basic Materials;Chemicals-Diversified;16122.25;16122253417.20; -   ; -   ; -   ;#N/A Field Not Applicable;Common Stock;NL;USD;28.07.2016;BBB+;#N/A N/A
+NL0000009132 ISIN;AKZO NOBEL;Basic Materials;Chemicals-Diversified;16122.25;16122253417.20; -   ; -   ; -   ;#N/A Field Not Applicable;Common Stock;NL;USD;28.07.2016;BBB+;#N/A N/A
+NL0000009355 ISIN;UNILEVER NV-CVA;Consumer, Non-cyclical;Cosmetics&Toiletries;138177.24;138152259800.34; 1.00 ; -   ; 1.00 ;#N/A Field Not Applicable;Dutch Cert;GB;USD;04.08.2016;A+;A1
+NL0000009355 ISIN;UNILEVER NV-CVA;Consumer, Non-cyclical;Cosmetics&Toiletries;138177.24;138152259800.34; 1.00 ; -   ; 1.00 ;#N/A Field Not Applicable;Dutch Cert;GB;USD;04.08.2016;A+;A1
+NL0000009538 ISIN;KONINKLIJKE PHILIPS NV;Industrial;Electronic Compo-Misc;25151.18;25151181808.36; -   ; -   ; -   ;#N/A Field Not Applicable;Common Stock;NL;USD;01.08.2016;BBB+;Baa1
+NL0000009827 ISIN;KONINKLIJKE DSM NV;Basic Materials;Chemicals-Diversified;11248.35;#N/A N/A; -   ;;;#N/A Field Not Applicable;Common Stock;NL;USD;#N/A Field Not Applicable;A-;A3
+NL0000303709 ISIN;AEGON NV;Financial;Multi-line Insurance;9061.45;9067902927.21; -   ; 1.00 ; 1.00 ;#N/A Field Not Applicable;Common Stock;NL;USD;02.08.2016;A-;A3
+NL0000379121 ISIN;RANDSTAD HOLDING NV;Consumer, Non-cyclical;Human Resources;7824.07;7824072296.25; -   ; 1.00 ; 1.00 ;#N/A Field Not Applicable;Common Stock;NL;USD;21.07.2016;#N/A N/A;#N/A N/A
+NL0000395903 ISIN;WOLTERS KLUWER;Communications;Publishing-Periodicals;6786.14;#N/A N/A; -   ;;;#N/A Field Not Applicable;Common Stock;NL;USD;#N/A Field Not Applicable;BBB+;#N/A N/A
+NL0000687663 ISIN;AERCAP HOLDINGS NV;Financial;Finance-Leasing Compan;7253.40;7253398430.64; -   ; 1.00 ; 1.00 ;#N/A Field Not Applicable;Common Stock;IE;USD;05.08.2016;BBB-;#N/A N/A
+NL0006144495 ISIN;RELX NV;Consumer, Non-cyclical;Commercial Services;38402.52;38403080002.72; 1.00 ; -   ; 1.00 ;#N/A Field Not Applicable;Common Stock;GB;USD;28.07.2016;BBB+;#N/A N/A
+NL0009739424 ISIN;TNT EXPRESS NV;Industrial;Transport-Services;5670.13;#N/A N/A; -   ; -   ; -   ;#N/A Field Not Applicable;Common Stock;NL;USD;27.07.2016;NR;WR
+NL0009805522 ISIN;YANDEX NV-A;Communications;Web Portals/ISP;6950.12;6950119762.67; -   ; 1.00 ; 1.00 ;#N/A Field Not Applicable;Common Stock;RU;USD;05.08.2016;#N/A N/A;#N/A N/A
+NL0010273215 ISIN;ASML HOLDING NV;Technology;Semiconductor Equipment;47536.68;47536683853.00; 1.00 ; -   ; 1.00 ;#N/A Field Not Applicable;Common Stock;NL;USD;05.08.2016;#N/A N/A;WR
+NL0010672325 ISIN;KONINKLIJKE AHOLD NV;Consumer, Non-cyclical;Food-Retail; #N/A N/A ; #N/A N/A ;;;;#N/A Field Not Applicable;Common Stock;NL;MXN;#N/A Field Not Applicable;BBB;Baa2
+NO0003033102 ISIN;KONGSBERG AUTOMOTIVE ASA;Consumer, Cyclical;Auto/Trk Prts&Equip-Orig;288.81;288805373.01; -   ; 1.00 ; 1.00 ;#N/A Field Not Applicable;Common Stock;NO;USD;27.07.2016;#N/A N/A;#N/A N/A
+NO0010686934 ISIN;REC SOLAR ASA;Energy;Energy-Alternate Sources;510.00;#N/A N/A; -   ;;;#N/A Field Not Applicable;Common Stock;SG;USD;#N/A Field Not Applicable;#N/A N/A;#N/A N/A
+PR7331747001 ISIN;POPULAR INC;Financial;Commer Banks-Southern US;3782.09;3782087943.48; -   ; -   ; -   ;#N/A Field Not Applicable;Common Stock;PR;USD;05.08.2016;B+;#N/A N/A
+SE0000103699 ISIN;HEXAGON AB-B SHS;Industrial;Machinery-General Indust;14134.61;14128760807.30; -   ; 1.00 ; 1.00 ;#N/A Field Not Applicable;Common Stock;SE;USD;08.07.2016;#N/A N/A;#N/A N/A
+SE0000108227 ISIN;SKF AB-B SHARES;Industrial;Metal Processors&Fabrica;7219.68;7220941403.61; -   ; -   ; -   ;#N/A Field Not Applicable;Common Stock;SE;USD;04.08.2016;BBB;#N/A N/A
+SE0000108656 ISIN;ERICSSON LM-B SHS;Communications;Networking Products;24362.86;24349223806.20; -   ; 1.00 ; 1.00 ;#N/A Field Not Applicable;Common Stock;SE;USD;05.08.2016;BBB+;WR
+SE0000115446 ISIN;VOLVO AB-B SHS;Consumer, Cyclical;Auto-Med&Heavy Duty Trks;21915.59;21914694046.96; -   ; -   ; -   ;#N/A Field Not Applicable;Common Stock;SE;USD;04.08.2016;BBB;Baa2
+SE0000667925 ISIN;TELIA CO AB;Communications;Telephone-Integrated;19528.68;19528682362.31; -   ; -   ; -   ;#N/A Field Not Applicable;Common Stock;SE;USD;01.08.2016;A-;#N/A N/A
+SE0000667925 ISIN;TELIA CO AB;Communications;Telephone-Integrated;19528.68;19528682362.31; -   ; -   ; -   ;#N/A Field Not Applicable;Common Stock;SE;USD;01.08.2016;A-;#N/A N/A
+SE0005126729 ISIN;PA RESOURCES AB;Energy;Oil Comp-Explor&Prodtn;118.83;#N/A N/A; -   ;;;#N/A Field Not Applicable;Common Stock;SE;USD;#N/A Field Not Applicable;#N/A N/A;#N/A N/A
+US00507V1098 ISIN;ACTIVISION BLIZZARD INC;Technology;Entertainment Software;30073.91;30073904034.72; -   ; -   ; -   ;#N/A Field Not Applicable;Common Stock;US;USD;05.08.2016;BBB-;#N/A N/A
+US00724F1012 ISIN;ADOBE SYSTEMS INC;Technology;Electronic Forms;49350.73;49350729943.68; 1.00 ; -   ; 1.00 ;#N/A Field Not Applicable;Common Stock;US;USD;05.08.2016;A-;#N/A N/A
+US00751Y1064 ISIN;ADVANCE AUTO PARTS INC;Consumer, Cyclical;Retail-Auto Parts;12540.57;12540571475.97; -   ; -   ; -   ;#N/A Field Not Applicable;Common Stock;US;USD;05.08.2016;BBB-;WR
+US0143391052 ISIN;ALDER BIOPHARMACEUTICALS INC;Consumer, Non-cyclical;Medical-Biomedical/Gene;1578.31;1578314664.70; -   ; 1.00 ; 1.00 ;#N/A Field Not Applicable;Common Stock;US;USD;05.08.2016;#N/A N/A;#N/A N/A
+US01609W1027 ISIN;ALIBABA GROUP HOLDING-SP ADR;Communications;E-Commerce/Products;211075.45;211075454530.38; 1.00 ; -   ; 1.00 ;#N/A Field Not Applicable;ADR;CN;USD;05.08.2016;A+;#N/A N/A
+US0231351067 ISIN;AMAZON.COM INC;Communications;E-Commerce/Products;363130.84;363130851701.16; 1.00 ; 1.00 ; 1.00 ;#N/A Field Not Applicable;Common Stock;US;USD;05.08.2016;AA-;WR
+US04247X1028 ISIN;ARMSTRONG WORLD INDUSTRIES;Industrial;Bldg&Construct Prod-Misc;2452.42;2452420737.72; -   ; -   ; -   ;#N/A Field Not Applicable;Common Stock;US;USD;05.08.2016;BB;#N/A N/A
+US0453271035 ISIN;ASPEN TECHNOLOGY INC;Technology;Computer Aided Design;3440.89;3440887998.84; -   ; -   ; -   ;#N/A Field Not Applicable;Common Stock;US;USD;05.08.2016;NR;WR
+US05463EAB48 ISIN;AXIS BANK/DUBAI;Financial;Commer Banks Non-US; #N/A Field Not Applicable ; 1,357,945,857,130.00 ;; 1.00 ; 1.00 ;750000000;EURO MTN;AE;USD;05.08.2016;#N/A N/A;#N/A N/A
+US05577E1010 ISIN;BT GROUP PLC-SPON ADR;Communications;Telephone-Integrated;53211.96;53211957654.40; 1.00 ; 1.00 ; 1.00 ;#N/A Field Not Applicable;ADR;GB;USD;05.08.2016;BBB+;#N/A N/A
+US0567521085 ISIN;BAIDU INC - SPON ADR;Communications;Web Portals/ISP;57955.37;57955366845.00; 1.00 ; -   ; 1.00 ;#N/A Field Not Applicable;ADR;CN;USD;05.08.2016;#N/A N/A;A3
+US05965X1090 ISIN;BANCO SANTANDER-CHILE-ADR;Financial;Commer Banks Non-US;10020.62;10020622792.59; -   ; -   ; -   ;#N/A Field Not Applicable;ADR;CL;USD;05.08.2016;A;#N/A N/A
+US06120TAA60 ISIN;BANK OF CHINA;Financial;Commer Banks Non-US; #N/A Field Not Applicable ; 1,096,436,609,100.00 ;; 1.00 ; 1.00 ;3000000000;EURO-DOLLAR;CN;USD;05.08.2016;A;#N/A N/A
+US0640581007 ISIN;BANK OF NEW YORK MELLON CORP;Financial;Fiduciary Banks;43621.85;43621846596.00; 1.00 ; 1.00 ; 1.00 ;#N/A Field Not Applicable;Common Stock;US;USD;05.08.2016;A;A1
+US06652K1034 ISIN;BANKUNITED INC;Financial;Commer Banks-Southern US;3165.10;3165102362.91; -   ; 1.00 ; 1.00 ;#N/A Field Not Applicable;Common Stock;US;USD;05.08.2016;#N/A N/A;#N/A N/A
+US0846701086 ISIN;BERKSHIRE HATHAWAY INC-CL A;Financial;Reinsurance;358774.54;358774539949.65; 1.00 ; -   ; 1.00 ;#N/A Field Not Applicable;Common Stock;US;USD;05.08.2016;AA;Aa2
+US09061G1013 ISIN;BIOMARIN PHARMACEUTICAL INC;Consumer, Non-cyclical;Medical-Biomedical/Gene;16060.18;16060182114.66; -   ; 1.00 ; 1.00 ;#N/A Field Not Applicable;Common Stock;US;USD;05.08.2016;NR;#N/A N/A
+US1014051080 ISIN;BOULDER BRANDS INC;Consumer, Non-cyclical;Food-Misc/Diversified;680.98;#N/A N/A; -   ;;;#N/A Field Not Applicable;Common Stock;US;USD;#N/A Field Not Applicable;NR;#N/A N/A
+US1255091092 ISIN;CIGNA CORP;Consumer, Non-cyclical;Medical-HMO;32969.26;32969264403.50; -   ; -   ; -   ;#N/A Field Not Applicable;Common Stock;US;USD;05.08.2016;A      *-;#N/A N/A
+US1270971039 ISIN;CABOT OIL & GAS CORP;Energy;Oil Comp-Explor&Prodtn;11424.04;11424040627.04; -   ; 1.00 ; 1.00 ;#N/A Field Not Applicable;Common Stock;US;USD;05.08.2016;#N/A N/A;#N/A N/A
+US16939P1066 ISIN;CHINA LIFE INSURANCE CO-ADR;Financial;Life/Health Insurance;82067.37;82081992353.61; 1.00 ; -   ; 1.00 ;#N/A Field Not Applicable;ADR;CN;USD;05.08.2016;AA-;#N/A N/A
+US1694261033 ISIN;CHINA TELECOM CORP LTD-ADR;Communications;Telecom Services;41283.60;41283601080.54; 1.00 ; 1.00 ; 1.00 ;#N/A Field Not Applicable;ADR;CN;USD;05.08.2016;#N/A N/A;#N/A N/A
+US1713401024 ISIN;CHURCH & DWIGHT CO INC;Consumer, Non-cyclical;Soap&Cleaning Prepar;12946.84;12946839393.32; -   ; -   ; -   ;#N/A Field Not Applicable;Common Stock;US;USD;05.08.2016;BBB+;WR
+US1729674242 ISIN;CITIGROUP INC;Financial;Diversified Banking Inst;132833.70;132833701017.36; 1.00 ; -   ; 1.00 ;#N/A Field Not Applicable;Common Stock;US;USD;05.08.2016;BBB+;#N/A N/A
+US177376AD23 ISIN;CITRIX SYSTEMS INC;Technology;Applications Software; #N/A Field Not Applicable ; 13,236,786,160.00 ;; 1.00 ; 1.00 ;1437500000;US DOMESTIC;US;USD;05.08.2016;NR;#N/A N/A
+US2041661024 ISIN;COMMVAULT SYSTEMS INC;Technology;Data Processing/Mgmt;2274.45;2274450688.00; -   ; -   ; -   ;#N/A Field Not Applicable;Common Stock;US;USD;05.08.2016;#N/A N/A;#N/A N/A
+US23918K1088 ISIN;DAVITA HEALTHCARE PARTNERS I;Consumer, Non-cyclical;Dialysis Centers;15892.24;15892240000.00; -   ; -   ; -   ;#N/A Field Not Applicable;Common Stock;US;USD;05.08.2016;BB;WR
+US2547091080 ISIN;DISCOVER FINANCIAL SERVICES;Financial;Finance-Credit Card;23325.61;23325610513.53; -   ; 1.00 ; 1.00 ;#N/A Field Not Applicable;Common Stock;US;USD;05.08.2016;BBB-;#N/A N/A
+US25470F3029 ISIN;DISCOVERY COMMUNICATIONS-C;Communications;Broadcast Serv/Program;15656.59;15656593208.78; -   ; -   ; -   ;#N/A Field Not Applicable;Common Stock;US;USD;05.08.2016;BBB-;#N/A N/A
+US25470M1099 ISIN;DISH NETWORK CORP-A;Communications;Cable/Satellite TV;23903.09;23903085979.68; -   ; -   ; -   ;#N/A Field Not Applicable;Common Stock;US;USD;05.08.2016;B+;WR
+US2686481027 ISIN;EMC CORP/MA;Technology;Computers-Memory Devices;55571.18;55571180365.02; 1.00 ; -   ; 1.00 ;#N/A Field Not Applicable;Common Stock;US;USD;05.08.2016;A      *-;#N/A N/A
+US2786421030 ISIN;EBAY INC;Communications;E-Commerce/Products;35439.90;35439901638.72; 1.00 ; -   ; 1.00 ;#N/A Field Not Applicable;Common Stock;US;USD;05.08.2016;BBB+;Baa1
+US28176E1082 ISIN;EDWARDS LIFESCIENCES CORP;Consumer, Non-cyclical;Medical Instruments;24104.27;24104269694.44; -   ; -   ; -   ;#N/A Field Not Applicable;Common Stock;US;USD;05.08.2016;BBB-;#N/A N/A
+US2855121099 ISIN;ELECTRONIC ARTS INC;Technology;Entertainment Software;24062.44;24062445067.20; -   ; -   ; -   ;#N/A Field Not Applicable;Common Stock;US;USD;05.08.2016;BBB-;Baa2
+US30303M1027 ISIN;FACEBOOK INC-A;Communications;Internet Content-Entmnt;359346.74;359346733616.25; 1.00 ; 1.00 ; 1.00 ;#N/A Field Not Applicable;Common Stock;US;USD;05.08.2016;#N/A N/A;#N/A N/A
+US34959E1091 ISIN;FORTINET INC;Technology;Computer Data Security;5778.13;5778134557.58; -   ; -   ; -   ;#N/A Field Not Applicable;Common Stock;US;USD;05.08.2016;#N/A N/A;#N/A N/A
+US3696041033 ISIN;GENERAL ELECTRIC CO;Industrial;Diversified Manufact Op;280307.37;280307368240.00; 1.00 ; -   ; 1.00 ;#N/A Field Not Applicable;Common Stock;US;USD;05.08.2016;AA+;A1
+US38059T1060 ISIN;GOLD FIELDS LTD-SPONS ADR;Basic Materials;Gold Mining;5044.21;5044210820.98; -   ; -   ; -   ;#N/A Field Not Applicable;ADR;ZA;USD;05.08.2016;BB+;#N/A N/A
+US404280AH22 ISIN;HSBC HOLDINGS PLC;Financial;Diversified Banking Inst; #N/A Field Not Applicable ; 107,220,805,480.00 ;; 1.00 ; 1.00 ;2500000000;GLOBAL;GB;USD;05.08.2016;A;#N/A N/A
+US404280AR04 ISIN;HSBC HOLDINGS PLC;Financial;Diversified Banking Inst; #N/A Field Not Applicable ; 107,220,805,480.00 ;; -   ; -   ;1500000000;GLOBAL;GB;USD;05.08.2016;A;#N/A N/A
+US4052171000 ISIN;HAIN CELESTIAL GROUP INC;Consumer, Non-cyclical;Food-Misc/Diversified;5385.51;5385512511.10; -   ; 1.00 ; 1.00 ;#N/A Field Not Applicable;Common Stock;US;USD;05.08.2016;#N/A N/A;#N/A N/A
+US45174L1089 ISIN;IKANG HEALTHCARE GROUP-ADR;Consumer, Non-cyclical;Medical Labs&Testing Srv;1302.52;1302521548.72; -   ; -   ; -   ;#N/A Field Not Applicable;ADR;CN;USD;05.08.2016;#N/A N/A;#N/A N/A
+US4523271090 ISIN;ILLUMINA INC;Consumer, Non-cyclical;Medical-Biomedical/Gene;24413.30;24413298000.00; -   ; 1.00 ; 1.00 ;#N/A Field Not Applicable;Common Stock;US;USD;05.08.2016;BBBu;#N/A N/A
+US53071M1045 ISIN;LIBERTY INTERACTIVE CORP Q-A;Consumer, Cyclical;Retail-Catalog Shopping;9817.78;9817777132.49; -   ; 1.00 ; 1.00 ;#N/A Field Not Applicable;Tracking Stk;US;USD;05.08.2016;BB;#N/A N/A
+US5486611073 ISIN;LOWE'S COS INC;Consumer, Cyclical;Retail-Building Products;72412.48;72412477391.52; 1.00 ; -   ; 1.00 ;#N/A Field Not Applicable;Common Stock;US;USD;05.08.2016;A-;#N/A N/A
+US5500211090 ISIN;LULULEMON ATHLETICA INC;Consumer, Cyclical;Retail-Apparel/Shoe;10656.89;10656886377.20; -   ; -   ; -   ;#N/A Field Not Applicable;Common Stock;CA;USD;05.08.2016;#N/A N/A;#N/A N/A
+US5528481030 ISIN;MGIC INVESTMENT CORP;Financial;Financial Guarantee Ins;2551.40;2551403164.73; -   ; -   ; -   ;#N/A Field Not Applicable;Common Stock;US;USD;05.08.2016;BBu;#N/A N/A
+US6092071058 ISIN;MONDELEZ INTERNATIONAL INC-A;Consumer, Non-cyclical;Food-Misc/Diversified;67308.00;67308000228.86; 1.00 ; -   ; 1.00 ;#N/A Field Not Applicable;Common Stock;US;USD;05.08.2016;BBB;Baa1
+US6350171061 ISIN;NATIONAL BEVERAGE CORP;Consumer, Non-cyclical;Beverages-Non-alcoholic;2517.77;2517772816.00; -   ; 1.00 ; 1.00 ;#N/A Field Not Applicable;Common Stock;US;USD;05.08.2016;#N/A N/A;#N/A N/A
+US64110L1061 ISIN;NETFLIX INC;Communications;Internet Content-Entmnt;41599.22;41599224397.64; 1.00 ; -   ; 1.00 ;#N/A Field Not Applicable;Common Stock;US;USD;05.08.2016;B+;#N/A N/A
+US64115T1043 ISIN;NETSCOUT SYSTEMS INC;Technology;Computers-Integrated Sys;2569.35;2569353429.72; -   ; -   ; -   ;#N/A Field Not Applicable;Common Stock;US;USD;05.08.2016;#N/A N/A;#N/A N/A
+US65249B2088 ISIN;NEWS CORP - CLASS B;Communications;Publishing-Newspapers;7531.03;7531030034.39; -   ; 1.00 ; 1.00 ;#N/A Field Not Applicable;Common Stock;US;USD;05.08.2016;#N/A N/A;#N/A N/A
+US65473P1057 ISIN;NISOURCE INC;Utilities;Gas-Distribution;8006.31;8006305649.30; -   ; -   ; -   ;#N/A Field Not Applicable;Common Stock;US;USD;05.08.2016;BBB+;#N/A N/A
+US7185461040 ISIN;PHILLIPS 66;Energy;Oil Refining&Marketing;40928.64;40928645317.56; 1.00 ; -   ; 1.00 ;#N/A Field Not Applicable;Common Stock;US;USD;05.08.2016;BBB+;A3
+US7427181091 ISIN;PROCTER & GAMBLE CO/THE;Consumer, Non-cyclical;Cosmetics&Toiletries;228333.65;228333652979.70; 1.00 ; -   ; 1.00 ;#N/A Field Not Applicable;Common Stock;US;USD;05.08.2016;AA-;Aa3
+US74734M1099 ISIN;QIHOO 360 TECHNOLOGY CO-ADR;Communications;Internet Security;9956.55;9956545594.04; -   ; -   ; -   ;#N/A Field Not Applicable;ADR;CN;USD;15.07.2016;#N/A N/A;#N/A N/A
+US7835131043 ISIN;RYANAIR HOLDINGS PLC-SP ADR;Consumer, Cyclical;Airlines; #N/A N/A ; #N/A N/A ;;;;#N/A Field Not Applicable;ADR;IE;EUR;#N/A Field Not Applicable;BBB+;#N/A N/A
+US82571BAB80 ISIN;SIAM COMMERCIAL BANK CAY;Financial;Commer Banks Non-US; #N/A Field Not Applicable ; #N/A N/A ;; -   ; -   ;750000000;EURO MTN;KY;USD;20.07.2016;#N/A N/A;#N/A N/A
+US86732Y1091 ISIN;SUNEDISON INC;Energy;Energy-Alternate Sources;45.81;45809455.79; -   ; 1.00 ; 1.00 ;#N/A Field Not Applicable;Common Stock;US;USD;05.08.2016;NR;#N/A N/A
+US8716281030 ISIN;SYNTHESIS ENERGY SYSTEMS INC;Utilities;Independ Power Producer;89.57;89572824.21; -   ; -   ; -   ;#N/A Field Not Applicable;Common Stock;US;USD;05.08.2016;#N/A N/A;#N/A N/A
+US8740801043 ISIN;TAL EDUCATION GROUP- ADR;Consumer, Non-cyclical;Schools;4853.77;4853774787.66; -   ; 1.00 ; 1.00 ;#N/A Field Not Applicable;ADR;CN;USD;05.08.2016;#N/A N/A;#N/A N/A
+US89977P1066 ISIN;TUNIU CORP-SPON ADR;Communications;E-Commerce/Services;1130.49;1130486863.48; -   ; 1.00 ; 1.00 ;#N/A Field Not Applicable;ADR;CN;USD;05.08.2016;#N/A N/A;#N/A N/A
+US90130A2006 ISIN;TWENTY-FIRST CENTURY FOX - B;Communications;Multimedia;49207.31;49207307868.12; 1.00 ; -   ; 1.00 ;#N/A Field Not Applicable;Common Stock;US;USD;05.08.2016;BBB+;#N/A N/A
+US9130171096 ISIN;UNITED TECHNOLOGIES CORP;Industrial;Aerospace/Defense-Equip;90170.51;90170509485.26; 1.00 ; -   ; 1.00 ;#N/A Field Not Applicable;Common Stock;US;USD;05.08.2016;A-;A3
+US92826C8394 ISIN;VISA INC-CLASS A SHARES;Financial;Finance-Credit Card;189195.31;189195315042.51; 1.00 ; -   ; 1.00 ;#N/A Field Not Applicable;Common Stock;US;USD;05.08.2016;A+;A1
+US92849E1010 ISIN;VITAMIN SHOPPE INC;Consumer, Cyclical;Retail-Vitamins/Nutr Sup;653.07;653065142.04; -   ; -   ; -   ;#N/A Field Not Applicable;Common Stock;US;USD;05.08.2016;NR;#N/A N/A
+US9311421039 ISIN;WAL-MART STORES INC;Consumer, Cyclical;Retail-Discount;229883.87;229883862140.96; 1.00 ; 1.00 ; 1.00 ;#N/A Field Not Applicable;Common Stock;US;USD;05.08.2016;AA;Aa2
+US9831341071 ISIN;WYNN RESORTS LTD;Consumer, Cyclical;Casino Hotels;9925.63;9925631731.61; -   ; 1.00 ; 1.00 ;#N/A Field Not Applicable;Common Stock;US;USD;05.08.2016;BB;#N/A N/A
+US9842451000 ISIN;YPF S.A.-SPONSORED ADR;Energy;Oil Comp-Integrated;7205.49;7205490367.76; -   ; 1.00 ; 1.00 ;#N/A Field Not Applicable;ADR;AR;USD;05.08.2016;NR;#N/A N/A
+US9843321061 ISIN;YAHOO! INC;Communications;Web Portals/ISP;37037.35;37037345553.04; 1.00 ; -   ; 1.00 ;#N/A Field Not Applicable;Common Stock;US;USD;05.08.2016;BB+u   *-;#N/A N/A
+US98944B1089 ISIN;ZEP INC;Basic Materials;Chemicals-Specialty;467.05;#N/A N/A; -   ;;;#N/A Field Not Applicable;Common Stock;US;USD;#N/A Field Not Applicable;B;#N/A N/A
+USJ64480AC07 ISIN;RESONA BANK LTD;Financial;Money Center Banks; #N/A Field Not Applicable ; #N/A N/A ;;;;1300000000;EURO-DOLLAR;JP;USD;#N/A N/A;A;#N/A N/A
+USN1384FAA32 ISIN;BHARTI AIRTEL INTERNATIO;Communications;Telecom Services; #N/A Field Not Applicable ; #N/A N/A ;; -   ; -   ;1500000000;EURO-DOLLAR;NL;USD;04.08.2016;#N/A N/A;#N/A N/A
+USU14922AA31 ISIN;CBA CAPITAL TRUST I;Financial;Commer Banks Non-US; #N/A Field Not Applicable ; 132,408,976,060.00 ;;;;550000000;EURO-DOLLAR;US;USD;#N/A N/A;#N/A N/A;#N/A N/A
+USY29011AC07 ISIN;GS CALTEX CORP;Energy;Oil Refining&Marketing; #N/A Field Not Applicable ; #N/A N/A ;;;;300000000;EURO-DOLLAR;KR;USD;#N/A N/A;BBB;#N/A N/A
+XS0109320688 ISIN;HIGHBURY FINANCE BV;Financial;Diversified Finan Serv; #N/A Field Not Applicable ; #N/A Field Not Applicable ;; 1.00 ; 1.00 ;335500000;EURO NON-DOLLAR;NL;GBP;08.08.2016;#N/A N/A;#N/A N/A
+XS0585780884 ISIN;MORGAN STANLEY;Financial;Diversified Banking Inst; #N/A Field Not Applicable ; 55,461,577,200.00 ;;;;300000000;EURO MTN;US;SGD;#N/A N/A;BBB+;A3
+XS0619063042 ISIN;ICICI BANK LTD/HONG KONG;Financial;Commer Banks Non-US; #N/A Field Not Applicable ; 1,427,472,628,120.00 ;;;;60000000;EURO MTN;HK;SGD;#N/A N/A;#N/A N/A;#N/A N/A
+XS0829125847 ISIN;INSTITUT CREDITO OFICIAL;Government;Sovereign Agency; #N/A Field Not Applicable ; #N/A N/A ;; 1.00 ; 1.00 ;1350000000;EURO MTN;ES;EUR;14.03.2016;BBB+;#N/A N/A
+XS0829780203 ISIN;MALAYAN BANKING BHD;Financial;Commer Banks Non-US; #N/A Field Not Applicable ; 79,870,447,290.00 ;; 1.00 ; 1.00 ;800000000;EURO MTN;MY;USD;05.08.2016;A-;#N/A N/A
+XS0881566680 ISIN;CHINA STATE CONS FINANCE;Industrial;Building&Construct-Misc; #N/A Field Not Applicable ; 48,830,955,150.00 ;; 1.00 ; 1.00 ;500000000;EURO-DOLLAR;HK;USD;28.07.2016;#N/A N/A;#N/A N/A
+XS0963156350 ISIN;CENTURY MASTER INVESTMEN;Financial;Invest Mgmnt/Advis Serv; #N/A Field Not Applicable ; #N/A N/A ;; 1.00 ; 1.00 ;600000000;EURO-DOLLAR;HK;USD;05.08.2016;#N/A N/A;#N/A N/A
+XS1088292815 ISIN;HUARONG FINANCE CO LTD;Financial;Investment Companies; #N/A Field Not Applicable ; 120,726,944,140.00 ;; 1.00 ; 1.00 ;1200000000;EURO-DOLLAR;VG;USD;28.07.2016;#N/A N/A;#N/A N/A
+XS1090155125 ISIN;TELEFONICA SA;Communications;Telephone-Integrated; #N/A Field Not Applicable ; 44,508,132,010.00 ;; 1.00 ; 1.00 ;750000000;EURO MTN;ES;EUR;08.08.2016;BBB;#N/A N/A
+XS1155697243 ISIN;LA MONDIALE;Financial;Life/Health Insurance; #N/A Field Not Applicable ; #N/A N/A ;; 1.00 ; 1.00 ;768405000;EURO-ZONE;FR;EUR;08.08.2016;A-;#N/A N/A
+XS1165659514 ISIN;HUARONG FINANCE II;Financial;Investment Companies; #N/A Field Not Applicable ; #N/A N/A ;; 1.00 ; 1.00 ;1400000000;EURO MTN;VG;USD;05.08.2016;#N/A N/A;#N/A N/A
+XS1180651587 ISIN;ACHMEA BV;Financial;Multi-line Insurance; #N/A Field Not Applicable ; #N/A N/A ;; 1.00 ; 1.00 ;750000000;EURO MTN;NL;EUR;08.08.2016;BBB+;#N/A N/A
+XS1202090947 ISIN;NORDEA BANK AB;Financial;Commer Banks Non-US; #N/A Field Not Applicable ; 311,643,800,160.00 ;; -   ; -   ;550000000;EURO MTN;SE;USD;04.08.2016;AA-;#N/A N/A
+XS1207354546 ISIN;BEIJING CAPITAL POLARIS;Diversified;Diversified Operations; #N/A Field Not Applicable ; #N/A N/A ;; 1.00 ; 1.00 ;600000000;EURO-DOLLAR;VG;USD;23.03.2016;#N/A N/A;#N/A N/A
+XS1227592703 ISIN;BANK OF INDIA/JERSEY;Financial;Commer Banks Non-US; #N/A Field Not Applicable ; 103,070,757,940.00 ;; 1.00 ; 1.00 ;750000000;EURO-DOLLAR;JE;USD;08.08.2016;#N/A N/A;#N/A N/A
+ZAE000006896 ISIN;SASOL LTD;Energy;Oil Comp-Integrated;18141.20;18141198020.60; -   ; 1.00 ; 1.00 ;#N/A Field Not Applicable;Common Stock;ZA;USD;27.07.2016;#N/A N/A;#N/A N/A
+ZAE000015889 ISIN;NASPERS LTD-N SHS;Communications;Multimedia;68219.45;68250014402.86; 1.00 ; 1.00 ; 1.00 ;#N/A Field Not Applicable;Common Stock;ZA;USD;27.07.2016;BBB-;Baa3
+ZAE000042164 ISIN;MTN GROUP LTD;Communications;Cellular Telecom;17334.06;17334061286.20; -   ; 1.00 ; 1.00 ;#N/A Field Not Applicable;Common Stock;ZA;USD;02.08.2016;BBB-;Baa3
+ZAE000066304 ISIN;FIRSTRAND LTD;Financial;Commer Banks Non-US;19056.24;#N/A N/A; -   ;;;#N/A Field Not Applicable;Common Stock;ZA;USD;#N/A Field Not Applicable;BB+;#N/A N/A
+ZAE000071080 ISIN;TIGER BRANDS LTD;Consumer, Non-cyclical;Food-Misc/Diversified;2725.69;#N/A N/A; -   ;;;#N/A Field Not Applicable;Common Stock;ZA;USD;#N/A Field Not Applicable;#N/A N/A;#N/A N/A
+;;;;;47574082792.84;;;;;;;;;;
