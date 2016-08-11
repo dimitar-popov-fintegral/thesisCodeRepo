@@ -63,10 +63,11 @@ def fetchDataSubset(data, tfdata, date, lookbackLength = 0):
         lookbackLength = maxIndex
 
     dataStartIndex = T - lookbackLength
-    data = data[int(dataStartIndex):int(T)]
-    date = date[int(dataStartIndex):int(T)]
+    data   = data[int(dataStartIndex):int(T)]
+    tfdata = tfdata[int(dataStartIndex):int(T)]
+    date   = date[int(dataStartIndex):int(T)]
 
-    return {"data": data, "date": date}
+    return {"data": data, "tfdata": tfdata, "date": date}
 
 # Function prepareSigma
 # @param data: a pandas data-frame consisting of numeric time-series, expects no date series
@@ -76,5 +77,7 @@ def prepareSigma(data):
     Sigma = (data.cov()).as_matrix()
 
     return Sigma
+
+
 
 
