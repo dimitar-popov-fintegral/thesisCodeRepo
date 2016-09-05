@@ -32,9 +32,9 @@ import re
  ##
 def evaluateFC (x, c):
     # Prepare funct. eval.
-    filePath = "/Users/Dim/Desktop/work_folder/six/code_CPP/SIX/csv/"
-    fileName = "threeAssetTestPortfolio.csv"
-    matSigma = prepareProblem(filePath=filePath, fileName=fileName)
+    #filePath = "/Users/Dim/Desktop/work_folder/six/code_CPP/SIX/csv/"
+    #fileName = "threeAssetTestPortfolio.csv"
+    #matSigma = prepareProblem(filePath=filePath, fileName=fileName)
     n = matSigma.shape[0]
     vecOnes = np.ones(n)
     vecVola = matSigma.diagonal()
@@ -65,9 +65,9 @@ def evaluateFC (x, c):
  ##
 def evaluateGA (x, objGrad, jac):
     # Prepare Jacobian eval.
-    filePath = "/Users/Dim/Desktop/work_folder/six/code_CPP/SIX/csv/"
-    fileName = "threeAssetTestPortfolio.csv"
-    matSigma = prepareProblem(filePath=filePath, fileName=fileName)
+    #filePath = "/Users/Dim/Desktop/work_folder/six/code_CPP/SIX/csv/"
+    #fileName = "threeAssetTestPortfolio.csv"
+    #matSigma = prepareProblem(filePath=filePath, fileName=fileName)
     n = matSigma.shape[0]
     #vecOnes = np.ones(n)
     vecVola = matSigma.diagonal()
@@ -276,7 +276,7 @@ ret = KTR_init_problem (kc, n, objGoal, objType, bndsLo, bndsUp,
 if ret:
         raise RuntimeError ("Error initializing the problem, "
                             + "Knitro status = "
-                            + numpy.str(ret))
+                            + np.str(ret))
 
 #---- SOLVE THE PROBLEM.
 #----
